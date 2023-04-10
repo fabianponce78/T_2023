@@ -1,0 +1,684 @@
+Lugar|Numero|LastName|Name|Team|Time|Age|Dt_Birth
+1|119|Cruz Guzman|Amaia|anv Interlomas|00:19:49.0|10|01-Jan-2013
+2|133|Perez-Yarza Squadrito|Arantxa|anv Santa Fe|00:19:52.0|10|12-Jun-2012
+3|109|Lozano Oliviera|Eleonor|anv San Jeronimo|00:20:15.0|9|15-Aug-2013
+4|126|Honorato Zuñiga|Maria Renee|anv Lindavista|00:20:16.0|10|21-Dec-2012
+5|125|González Clemente|Nicole Josseline|anv Puebla|00:20:18.0|10|20-Sep-2012
+6|110|Miranda Estrada|Ivanna|La Loma QRO|00:20:43.0|9|04-Jul-2013
+7|135|Rodriguez Morales|Elsi Abril|anv Coyoacan|00:20:49.0|10|17-Apr-2012
+8|124|Gómez Valencia|Sandra Renata|anv Puebla|00:21:15.0|10|12-Jun-2012
+9|122|Escalente Corona|Sara Fernanda|anv C. de Entrenamiento|00:22:45.0|10|25-May-2012
+10|115|Alvarado Munguia|Ingrid Valeria|SportCity|00:22:47.0|10|29-Apr-2012
+11|111|Pineda Peña|Mariana|anv San Jeronimo|00:23:01.0|9|31-Oct-2013
+12|102|Bernal Guerrero|Sofia|anv Santa Fe|00:23:06.0|9|08-May-2013
+13|116|Ayala Gallardo|Alejandra|anv Lindavista|00:25:06.0|10|06-Nov-2012
+14|134|Rivera Hernandez|Erandi|anv Lindavista|00:25:43.0|10|21-Nov-2012
+16|123|García Belmonte|Paula|anv San Jeronimo|00:26:48.6|10|16-Nov-2012
+17|127|Jaimez Segura|Victoria|anv Santa Fe|00:28:36.6|10|24-Oct-2012
+18|132|Olvera Aguilar|Firenze|anv Plaza Central|00:28:59.0|10|09-May-2012
+19|113|Vargas Vergara|Sofia|anv Puebla|00:29:02.0|9|17-Sep-2013
+20|121|Enríquez De Joseph|Ana Paula|anv San Jeronimo|00:29:02.1|10|12-May-2012
+22|118|Contreras Monroy|Ethel|anv San Jeronimo|00:29:28.6|10|26-May-2012
+23|131|Martínez Guevara|Valentina|anv Puebla|00:29:31.3|10|28-Mar-2012
+24|130|Lira Hernandez|Isabella|anv Plaza Central|00:31:14.0|10|17-Dec-2012
+26|106|Gomez Haro Jacobo|Julia|La Loma QRO|00:31:32.6|9|26-Jun-2013
+27|108|Jimenez Morales|Natalia|anv Coapa|00:46:20.1|9|14-Aug-2013
+28|136|Vega Capdeville|Mayre|anv Coapa|00:59:22.0|10|15-Nov-2012
+2|145|Hernandez Cruz|Aldy|anv Puebla|00:15:32.3|11|25-Feb-2011
+3|163|Cruz Alvarez|Mayrin|anv Lindavista|00:17:11.3|12|09-Apr-2010
+4|175|Sanchez Medina|Julieta Yunuen|anv C. de Entrenamiento|00:17:31.8|12|19-Aug-2010
+5|174|Rojas Ramirez|Katherine|anv Santa Fe|00:17:44.0|12|10-Jul-2010
+6|154|Rosales Siguenza|Ixchel|La Loma QRO|00:17:47.0|11|29-Jul-2011
+8|164|Daniel Gonzalez|Melissa|anv C. de Entrenamiento|00:18:04.0|12|28-Jan-2011
+9|152|Olivares Silve|Alessandra|anv San Jeronimo|00:18:19.6|11|04-May-2011
+10|161|Arellano Estrada|Maria Jose|anv Puebla|00:18:48.0|12|06-Nov-2010
+11|143|Gonzales Peñaflor|Valentina|anv Interlomas|00:18:49.6|11|05-Sep-2011
+12|166|Lerdo De Tejada|Sofia|anv Interlomas|00:19:31.0|12|08-Apr-2010
+13|148|López Girard|Antonella|anv Puebla|00:20:35.0|11|28-Aug-2011
+14|142|Elias Liz|Valentina|anv Interlomas|00:20:40.0|11|28-Nov-2011
+16|139|Capetillo Esquiliano|Isabella|anv Coyoacan|00:21:40.0|11|28-Aug-2011
+17|616|Morales Buellas|Laila Anayansi|anv Interlomas|00:21:45.0|12|21-Dec-2010
+18|169|Murguía Tcetchoulina|Teresa|anv San Jeronimo|00:21:56.0|12|15-Nov-2010
+20|177|Velasco Aldama|Astrid Fernanda|Alpha swimmer HXQ|00:22:09.0|12|04-Aug-2010
+21|138|Canchola Padilla|Abigail|anv Puebla|00:23:37.0|11|20-Aug-2011
+23|151|Olivares Romero|Ximena|anv Santa Fe|00:25:42.0|11|16-Oct-2011
+24|156|Saez De Ibarra Batanete|María|anv Z. Esmeralda|00:26:06.0|11|01-Nov-2011
+26|144|Guzman Vasquez|Linna Fernanda|anv Plaza Central|00:27:26.0|11|01-Aug-2011
+27|162|Contreras Monroy|Julieta|anv San Jeronimo|00:28:02.0|12|10-Aug-2010
+28|141|Davila Salas|Isabella Andrea|anv Interlomas|00:28:20.0|11|05-May-2011
+29|147|Lomelin Martinez|Valentina|anv Lindavista|00:29:44.0|11|14-Oct-2011
+30|158|Torres Alvarado|Regina|anv Plaza Central|00:30:36.0|11|27-Jun-2011
+31|170|Nevarez Villagran|Karol|anv Coapa|00:30:55.0|12|20-Feb-2010
+32|149|Lopez Luciano|Valeria Gudalupe|anv Plaza Central|00:31:15.0|11|30-Apr-2011
+33|153|Rosains Fuentes|Natalia|anv Z. Esmeralda|00:34:06.0|11|04-Mar-2011
+34|157|Sánchez Flores|Mónica|anv Z. Esmeralda|00:34:15.8|11|05-Jan-2012
+35|140|Cedeño Mata|Camila Sofia|anv Coapa|00:34:50.0|11|09-Jun-2011
+36|137|Arriola Gonzalez|Elisa|anv San Jeronimo|00:40:54.0|11|09-Oct-2011
+37|168|Medina Hernandez|Juliette Harlen Raquel|anv Coapa|00:46:16.8|12|11-Jun-2010
+1|205|Cañedo Gonzalez|Katherina|anv Interlomas|00:14:26.0|14|03-Dec-2008
+2|217|Troncoso Chavez|Andrea|anv C. de Entrenamiento|00:14:31.0|14|30-Sep-2008
+3|186|Florez Torres|Ana Isabel|anv Santa Fe|00:15:37.0|13|05-Mar-2009
+4|185|Fierro Oseguera|Fernanda Nicol|anv Coyoacan|00:15:46.0|13|06-May-2009
+5|198|Sanchez Flores|Kiara Isabella|anv Satelite|00:16:04.0|13|27-Aug-2009
+6|182|Del Valle Osorio|Isabella|anv Puebla|00:16:42.0|13|17-Aug-2009
+7|191|Lozano Oliviera|Paulina|anv San Jeronimo|00:16:52.0|13|19-Nov-2009
+8|195|Rebolar Caudillo|Valeria|anv Santa Fe|00:16:59.0|13|18-Jul-2009
+9|203|Alvarez Andrade|Areli Jeceline|SportCity|00:17:34.0|14|21-Jan-2009
+10|206|Cordova Ramos|Silvia|anv Las Arboledas|00:17:39.0|14|28-Aug-2008
+11|199|Santana Lugo|Michelle|anv C. de Entrenamiento|00:17:49.0|13|21-Jul-2009
+12|218|Vázquez Cosio|Maria Fernanda|anv Puebla|00:17:55.0|14|26-Jun-2008
+13|208|Fuertes Vasquez|Sofia|anv Interlomas|00:17:58.0|14|02-Feb-2009
+14|197|Saez De Ibarra Batanete|Ane|anv Z. Esmeralda|00:18:00.0|13|28-Apr-2009
+15|213|Murguía Tcetchoulina|Valeria|anv San Jeronimo|00:18:06.0|14|23-Apr-2008
+17|212|Mejia Negrete|Ana Sofia|anv C. de Entrenamiento|00:18:43.0|14|18-Nov-2008
+18|209|Granada Garcia|Victoria|Alpha swimmer HXQ|00:19:04.0|14|21-Jan-2009
+19|190|Larios Larios|Ayari Giovanna|anv Z. Esmeralda|00:19:21.0|13|17-Mar-2009
+20|178|Aldama Muciño|Andrea|Alpha swimmer HXQ|00:20:41.3|13|18-Oct-2009
+21|180|Colin Estrada|Renata Valentina|anv Plaza Central|00:20:42.0|13|17-Sep-2009
+22|202|Xihuitl Aranda|Andrea|La Loma QRO|00:20:45.1|13|12-Mar-2009
+23|179|Aldama Muciño|Daniela|Alpha swimmer HXQ|00:20:47.0|13|18-Oct-2009
+24|210|Herrera Gonzalez|Liz Katia|anv Coyoacan|00:20:49.3|14|17-Oct-2008
+26|215|Olmedo Mondragon|Valentina|anv Z. Esmeralda|00:22:16.6|14|17-Jul-2008
+27|207|Cruz Bobadilla|Luna Valeria|anv Centenario|00:22:19.0|14|23-Aug-2008
+28|189|Ibarra Aguirre|Manola|La Loma QRO|00:24:25.6|13|02-Apr-2009
+29|194|Prado Benitez|Renee|anv Plaza Central|00:24:26.8|13|22-Oct-2009
+30|181|Colina Espinoza|Daniela|anv Z. Esmeralda|00:25:04.3|13|27-Feb-2009
+31|214|Neri Ochoa|Abril Sofia|anv Centenario|00:27:08.6|14|09-Mar-2008
+32|196|Rodriguez Triana|Mariane|anv Z. Esmeralda|00:27:50.3|13|14-Sep-2009
+33|187|Garcia-Tellez Meneses|Rebeca|anv San Jeronimo|00:27:51.8|13|28-Jul-2009
+34|193|Mejia Morales|Camila Sofia|anv Plaza Central|00:29:15.0|13|28-Dec-2009
+35|192|Mejia Hernandez|Yolanda Michelle|anv San Jeronimo|00:30:41.8|13|19-Jun-2009
+36|211|Medina Hernandez|Althea Geraldine|anv Coapa|00:32:31.0|14|23-Sep-2008
+37|216|Reynoso Plasman|Hyla Liu|anv San Jeronimo|00:32:51.8|14|18-Dec-2008
+38|184|Dominguez Murbartian|Joanna|anv Coapa|00:33:24.1|13|13-Dec-2009
+1|252|Velazquez Vela|Regina|anv C. de Entrenamiento|00:13:48.0|16|06-Dec-2006
+2|236|Torre Sosa|Andrea|anv Interlomas|00:14:05.1|15|02-May-2007
+3|221|Barceinas Rodriguez|Ana Sofia|anv Interlomas|00:14:56.3|15|14-Jan-2008
+4|250|Ocampo Ortiz|Frida Sofia|anv C. de Entrenamiento|00:15:07.6|16|15-Sep-2006
+5|225|Garcia Lopez|Giannitsa|anv C. de Entrenamiento|00:15:08.0|15|18-Jun-2007
+6|242|Cedillo Armenta|Aritza|anv Puebla|00:15:14.3|16|24-Apr-2006
+7|227|Guzman Gutierrez|Naomi|anv C. de Entrenamiento|00:16:04.0|15|22-Oct-2007
+8|223|Contreras Sanchez|Alondra|anv C. de Entrenamiento|00:16:08.0|15|20-Dec-2007
+9|222|Cabello Orozco|Victoria|anv C. de Entrenamiento|00:16:15.0|15|10-Mar-2007
+11|251|Treviño Alvarez|Aranza|anv Interlomas|00:16:25.3|16|03-Mar-2006
+12|232|Matsumoto Paniagua|Aimi Fernanda|SportCity|00:16:37.0|15|12-Dec-2007
+13|233|Molina Ronquillo|Lizbeth Marlene|anv Interlomas|00:16:56.5|15|10-Apr-2007
+14|226|Gomez Valencia|Abril Guadalupe|anv Puebla|00:17:01.1|15|12-Dec-2007
+15|241|Aldama Muciño|Monica|Alpha swimmer HXQ|00:17:19.3|16|09-Feb-2007
+16|229|López López|Victoria|La Loma QRO|00:17:26.0|15|20-Dec-2007
+17|237|Torres Mijares|Sophia Itzel|anv Lindavista|00:17:52.3|15|11-Jun-2007
+19|240|Vazquez Pelaez|Muriel|anv C. de Entrenamiento|00:18:36.0|15|09-Feb-2008
+20|228|Hernandez Valdes|Ingrid Denisse|anv Lindavista|00:18:44.8|15|24-Dec-2007
+21|246|Granada Garcia|Leila|Alpha swimmer HXQ|00:19:13.6|16|01-Mar-2006
+22|234|Olivares Silve|Isabella|anv San Jeronimo|00:19:56.0|15|21-Aug-2007
+23|239|Vargas Ortega|Regina|anv Coyoacan|00:20:37.6|15|18-Jul-2007
+24|230|Martinez Villarruel|Zoe Italia|anv Coapa|00:20:40.3|15|23-Nov-2007
+27|247|Leon Orantes Bracho|María|anv San Jeronimo|00:22:54.3|16|02-Mar-2006
+28|238|Trejo Martinez|Jessica Lizbeth|anv Interlomas|00:24:04.1|15|22-Aug-2007
+29|231|Martinez Zacarias|Estrella Kelly|Deportivo Salba|00:24:38.8|15|06-Jan-2008
+30|245|Garcia Aspiros|Diana Laura|anv Lindavista|00:25:46.0|16|01-Oct-2006
+31|224|Garcia De La Rosa|Xana|anv Santa Fe|00:34:05.0|15|28-Mar-2007
+32|235|Reyes Moreno|Norma|anv Coapa|00:37:01.1|15|16-Dec-2007
+33|248|Lopez Necha|Luisa Fernanda|anv Satelite|00:41:30.0|16|24-Jul-2006
+1|259|Carvajal Picazo|Regina|anv Las Arboledas|00:16:31.0|18|26-Jan-2005
+2|257|Ubaldo Cabello|Regina|anv C. de Entrenamiento|00:17:35.0|17|05-May-2005
+3|253|Aldama Muciño|Judith|Alpha swimmer HXQ|00:17:37.0|17|18-Nov-2005
+4|261|Flores Gutierrez|Ruth Fernanda|anv Puebla|00:17:59.0|18|03-May-2004
+5|266|Romo Irure|Aitana|anv Satelite|00:18:35.0|18|13-Dec-2004
+6|267|Saldaña Barajas|Sofia Saldaña|Deportivo Salba|00:22:00.0|18|10-Feb-2005
+7|254|Barrera Sandoval|Frida Shopia|anv Plaza Central|00:24:42.1|17|23-Feb-2005
+8|255|Neri Perez|Sofia|anv San Jeronimo|00:27:58.1|17|05-May-2005
+9|263|Herrera Gonzalez|Yesica Karen|anv Coyoacan|00:30:40.8|18|20-Nov-2004
+10|260|Dominguez Martinez|Ashly Jeanette|anv Centenario|00:31:15.5|18|28-Aug-2004
+11|265|Monasterio Velazquez|Nyleve|anv Satelite|00:32:17.1|18|19-Nov-2004
+12|264|Lopez Galindo|Maria Fernanda|anv Coapa|00:35:06.0|18|14-Feb-2004
+2|288|Lara Romero|Erika|anv Puebla|00:17:06.0|24|21-Jun-1998
+3|283|Vazquez Jimenez|Sofia|anv Interlomas|00:17:49.0|23|02-Oct-1999
+4|280|Esquivel Guadarrama|Patricia|anv C. de Entrenamiento|00:18:23.0|23|26-Mar-1999
+5|274|Rendón García|Sofía|anv C. de Entrenamiento|00:19:35.0|19|08-Sep-2003
+6|287|Hernandez Morales|Valeria Geraldine|anv Coapa|00:19:56.0|24|08-May-1998
+7|272|Ortiz Muciño|Karla Berenice|Alpha swimmer HXQ|00:20:03.0|19|01-Mar-2003
+8|289|Vallejo Salazar|Karen|anv Coapa|00:21:21.0|24|29-Jan-1999
+9|278|Cosme Grajeda|Angela|anv Coapa|00:21:56.0|22|20-Apr-2000
+10|281|Garcia Gonzalez|Maria Libertad|anv Puebla|00:23:35.0|23|14-May-1999
+11|284|Aguilar García|Karina Aylin|anv Coyoacan|00:25:54.0|24|03-Apr-1998
+12|286|Borroel Medrano|Luisa Fernanda|anv Satelite|00:27:11.0|24|04-Dec-1998
+13|270|Gonzalez Albor|Michelle|anv Las Arboledas|00:28:23.0|19|14-Dec-2003
+14|277|Deutsch Guerrero|Isabel|anv Satelite|00:29:34.3|21|13-Sep-2001
+15|282|Martinez Vargas|Marisol|anv Santa Fe|00:29:38.0|23|08-Dec-1999
+16|269|Elizalde Rojo|Lakshmi|anv Z. Esmeralda|00:32:26.6|19|19-May-2003
+17|268|Cayon Mayett|Luz Alejandra|anv Coapa|00:34:24.8|19|03-Mar-2003
+18|273|Ramirez Cisneros|Gabriela Ixchel|anv Plaza Central|00:34:38.0|19|31-May-2003
+19|285|Bena Lozano|Maria Isabel|anv Interlomas|00:34:55.0|24|21-Dec-1998
+20|276|Carreño Becerra|Andrea Acdely|anv Lindavista|00:34:57.0|21|25-Feb-2001
+21|271|Juarez Jimenez|Diana Paola|anv Coyoacan|00:35:27.0|19|10-Sep-2003
+2|302|Chavez Hernandez|Jaqueline Isabel|anv Centenario|00:18:15.3|27|27-Aug-1995
+3|807|Rodriguez Alvarez|Montserrat|anv Puebla|00:19:12.0|28|13-Jun-1994
+4|324|Najera Abraham|Estefania|anv Satelite|00:19:19.1|29|23-May-1993
+6|295|Martín Casillas|Lorena|anv C. de Entrenamiento|00:22:23.6|26|20-Jun-1996
+7|311|Vallejo Salazar|Veronica|anv Coapa|00:22:29.3|27|25-Dec-1995
+8|293|Escamilla Jaramillo|Ximena|anv Lindavista|00:22:38.0|26|19-Apr-1996
+9|291|Cayon Mayett|Alicia|anv Coapa|00:24:15.5|25|17-Apr-1997
+10|296|Membrillo Garrido|Melania Maria|anv Coapa|00:24:19.0|26|15-Mar-1996
+11|313|Gutierrez Rubio|Karen|anv Centenario|00:25:00.1|28|27-Dec-1994
+12|316|Schiaffini Rosales|Gimenna|anv Puebla|00:25:01.1|28|16-Nov-1994
+13|303|Gonzalez Martinez|Mariana|anv Lindavista|00:25:04.3|27|15-Nov-1995
+14|306|Merino Andrade|Diana Karen|anv Plaza Central|00:25:10.5|27|26-Oct-1995
+15|309|Ruiz Garcia|Celit|anv Z. Esmeralda|00:25:12.6|27|30-Jun-1995
+17|317|Suarez Lopez|Natalia|anv San Jeronimo|00:25:54.8|28|03-May-1994
+18|301|Cayon Mayett|Maria Fernanda|anv Coapa|00:26:03.3|27|30-Mar-1995
+19|318|Avilés Batalla|Carla|anv Coyoacan|00:26:12.3|29|22-Oct-1993
+20|319|Briseño Gonzalez|Maria Constanza|anv Coyoacan|00:26:21.0|29|22-Dec-1993
+21|314|Guzman Velazquez|Daniela|anv Las Arboledas|00:26:21.8|28|10-Dec-1994
+22|292|Damazo Garcia|Erika Marlene|anv Plaza Central|00:26:42.5|26|04-Aug-1996
+23|299|Villa Paniagua|Jessica Estefania|anv Las Arboledas|00:29:06.1|26|02-Jan-1997
+24|312|Garcia Rebollo|Daniela Yeo|anv Las Arboledas|00:29:44.5|28|06-Oct-1994
+25|300|Albarran Reynoso|Martha Elena|anv Coyoacan|00:30:05.3|27|17-Jul-1995
+26|310|Suarez Pedraza|Tania Gabriela|anv Lindavista|00:30:27.0|27|29-May-1995
+27|297|Mendez Camargo|Valeria|anv Centenario|00:31:44.3|26|23-Apr-1996
+28|294|Garcia Baltierra|Ivonne Esperanza|anv Plaza Central|00:33:45.0|26|23-Apr-1996
+29|308|Perea Hernandez|Michel|anv Satelite|00:35:35.3|27|13-Feb-1995
+30|320|Cardoso Cortes|Gloria|anv Coyoacan|00:37:13.6|29|15-Jun-1993
+31|321|Damazo Garcia|Jessica|anv Plaza Central|00:38:06.0|29|21-Sep-1993
+32|305|Mercado Rivera|Telma Daniela|anv Centenario|00:38:54.0|27|26-Jun-1995
+33|322|Jimenez Oliva|Sandra Ivonne|anv San Jeronimo|00:46:37.8|29|02-Nov-1993
+34|323|Mendoza Caracheo|Alejandra|anv Satelite|00:47:16.1|29|22-Mar-1993
+35|304|Jimenez Manzano|Silvia|anv Santa Fe|00:50:30.1|27|21-Jul-1995
+1|341|Castañeda Miyamoto|Patricia Midori|anv C. de Entrenamiento|00:14:58.6|32|16-Mar-1990
+2|357|Sanchez Valencia|Diana|anv Satelite|00:18:53.1|34|02-Sep-1988
+3|339|Vázquez Morales|Kimberly|anv C. de Entrenamiento|00:19:41.0|31|28-Jun-1991
+5|351|Oropeza Calderon|Natalia|anv Satelite|00:22:08.8|33|03-May-1989
+7|330|Vanegas Zuñiga|Zaira Jovana|anv Satelite|00:23:09.3|30|28-Dec-1992
+11|355|Orozco Herrera|Yuritzi|anv C. de Entrenamiento|00:24:41.5|34|25-Oct-1988
+13|338|San Vicente Avila|Magda Elena|anv Coapa|00:26:02.8|31|02-Jun-1991
+17|327|Guadarrama Solis|Maricarmen|anv Coapa|00:28:27.1|30|18-Aug-1992
+18|352|Rodriguez Nava|Dulce|anv Satelite|00:31:31.0|33|06-Apr-1989
+19|326|Espinoza Nieto|Nancy|anv Lindavista|00:31:48.0|30|16-Jan-1993
+20|329|Rosas Rodriguez|Patricia|anv Coyoacan|00:32:04.6|30|03-Feb-1993
+21|354|Vera Davila|Haydee|anv Satelite|00:34:57.6|33|09-Apr-1989
+22|353|Santiago Hernandez|Melany|anv Plaza Central|00:35:14.6|33|30-Sep-1989
+23|347|Alvarez Salas|Adriana Isabel|anv Coyoacan|00:37:11.0|33|06-Aug-1989
+24|335|Luna Mejia|Thelma|anv Plaza Central|00:38:53.0|31|31-Jul-1991
+26|332|Barrera Alcantar|Veronica|anv Centenario|00:49:11.6|31|19-Feb-1991
+27|331|Velazquez Conde|Alma Gabriela|anv Coyoacan|00:49:53.8|30|22-Dec-1992
+28|342|Cruces Carbajal|Montserrat|anv Lindavista|00:53:09.0|32|03-Aug-1990
+29|336|Moreno Hernandez|Montserrat|anv Satelite|00:56:46.0|31|02-Apr-1991
+30|349|Castañeda Hernandez|Berenice|anv Las Arboledas|01:03:10.1|33|03-Feb-1990
+31|334|Fonseca Rodriguez|Elena Sarahi|anv Coapa|01:19:01.0|31|23-Oct-1991
+32|350|Hernandez Moctezuma|Ana Alejandra|anv Lindavista|01:20:57.0|33|07-Nov-1989
+1|378|Ulloa Galvan|Jesica|Alpha swimmer HXQ|00:22:09.1|39|14-Feb-1983
+2|372|Alfaro Briones|Diana|anv Lindavista|00:22:16.8|39|24-Dec-1983
+3|369|Ramirez Hernandez|Mariana|anv Las Arboledas|00:23:04.5|38|19-Sep-1984
+4|363|Mendoza Díaz|Veronica Ivonne|anv Z. Esmeralda|00:25:00.0|37|17-Aug-1985
+5|370|Sanchez Cervantes|Viviana Laura|anv Coapa|00:28:25.5|38|16-May-1984
+6|361|Gutierrez Juarez|Laura Angelica|anv Plaza Central|00:29:32.0|36|25-Jan-1987
+7|376|Magnot Mar|Karla Alejandra|anv Las Arboledas|00:33:12.3|39|24-Nov-1983
+8|374|Garcia Pano|Eunise Noemi|anv Satelite|00:34:49.3|39|24-Mar-1983
+9|368|Palafox Calvillo|Silvana|anv San Jeronimo|00:34:57.8|38|10-Nov-1984
+10|362|Mondragon Balderas|Charmague|anv Lindavista|00:35:45.1|36|10-Feb-1987
+11|371|Aguirre Gomez|Berenice|anv Satelite|00:36:08.3|39|04-Oct-1983
+13|377|Mahmoud Florencio|Da Silva Miriam|anv Z. Esmeralda|00:43:55.0|39|16-Jul-1983
+18|367|Padilla Barrera|Zuhelen Veronica|anv San Jeronimo|00:47:40.6|38|22-Nov-1984
+19|364|Nieves Resendiz|Liliana Dannae|anv Plaza Central|00:55:19.0|37|28-Aug-1985
+20|365|Medina Cortes|Monica|anv Coyoacan|01:06:02.0|38|09-Jun-1984
+1|382|Juárez Moreno|Claudia|anv Z. Esmeralda|00:19:39.8|40|10-Dec-1982
+2|399|Rodriguez Martinez|Jessica|anv Santa Fe|00:20:08.8|42|29-May-1980
+3|405|Martinez Basila|Azucena|anv Interlomas|00:20:56.0|43|09-Nov-1979
+4|410|Reyes Amador|Silvia|anv Satelite|00:21:04.1|43|18-May-1979
+6|389|Madrigal Castillo|Ana Isabel|anv Z. Esmeralda|00:21:21.3|41|01-Sep-1981
+7|414|Paniagua Paniagua|Nery|SportCity|00:22:52.8|44|25-Feb-1978
+8|417|Torres Lezama|Maria De Lourdes|anv Plaza Central|00:24:07.1|44|20-Apr-1978
+9|415|Salgado Esparza|Brenda|anv C. de Entrenamiento|00:24:09.3|44|25-Apr-1978
+10|386|Godínez Chaparro|Breatriz|anv C. de Entrenamiento|00:24:35.0|41|31-Jan-1982
+11|408|Paniagua Paniagua|Candy|SportCity|00:24:39.8|43|19-Jan-1980
+12|409|Pelaez Barbosa|Beatriz Aida|anv C. de Entrenamiento|00:24:57.1|43|18-Aug-1979
+13|381|Garcia Fuentes|Gabriela Manuela|anv Las Arboledas|00:25:08.8|40|21-Jul-1982
+14|384|Ortega Perez|Abril Dafne|anv Coyoacan|00:25:14.1|40|14-Sep-1982
+15|383|Meier Gamarra|Anya Karoline|anv Interlomas|00:25:59.6|40|17-Feb-1982
+18|392|Tellez Peña|Berenice|anv Interlomas|00:29:03.8|41|16-Jan-1982
+20|379|Chavez Mora|Aide|anv Lindavista|00:29:13.1|40|04-Dec-1982
+21|504|Moro Valdes|Valeria|anv Coapa|00:30:21.8|43|29-Jan-1990
+22|412|San Vicente Avila|Georgina Vanessa|anv Coapa|00:30:30.6|43|24-Feb-1979
+23|413|Juarez Ramirez|Juanita|anv Satelite|00:32:37.6|44|21-Nov-1978
+24|971|Salinas Guzman|Rosa Eugenia|anv Coapa|00:33:40.1|40|29-Apr-1982
+26|403|Gaona Garcia|Diana|anv Las Arboledas|00:34:11.5|43|19-Jan-1980
+27|397|Gomez Jaimes|Maria Azucena|anv Centenario|00:35:19.8|42|11-Apr-1980
+28|406|Mondragon Miramontes|Ana Luisa|anv Z. Esmeralda|00:35:51.0|43|19-Mar-1979
+29|411|Romero Gutierrez|Elda Raquel|anv Santa Fe|00:36:45.1|43|15-Nov-1979
+31|402|Caudillo Arteaga|Edith|anv Santa Fe|00:37:33.8|43|26-Aug-1979
+32|388|Macias Ruiz|Yanira|anv Plaza Central|00:38:07.1|41|17-Nov-1981
+33|416|Topete Pozas|Olivia|anv Coyoacan|00:40:03.6|44|10-Jan-1979
+34|396|Cetina Corona|Lizbeth Del Socorro|anv Las Arboledas|00:40:09.8|42|13-Dec-1980
+35|395|Alvarez Arriaga|Maria Elena|anv Coyoacan|00:42:18.6|42|05-May-1980
+36|380|Esquivel Guzman|Delia|anv Lindavista|00:45:23.8|40|17-Apr-1982
+37|391|Sicilia Garcia|Mayra Alejandra|anv Coapa|00:47:48.6|41|17-Jan-1982
+1|427|Hernández Romero|Mariana|anv C. de Entrenamiento|00:19:15.3|46|19-Sep-1976
+2|437|Barcenas Armendariz|Minerva|anv C. de Entrenamiento|00:24:05.8|49|16-May-1973
+3|423|Camacho Ramos|Karina|anv C. de Entrenamiento|00:24:15.3|46|12-Jun-1976
+4|426|Gonzalez Castillo|Katia|anv Interlomas|00:24:24.6|46|15-May-1976
+6|419|Nuñez Nuñez|Yanet|anv Z. Esmeralda|00:25:20.0|45|03-May-1977
+7|424|Carrizosa Herrera|Gabriela|anv Lindavista|00:29:01.0|46|03-May-1976
+8|425|Fuentes Chavez|Mónica|anv Z. Esmeralda|00:30:02.3|46|04-May-1976
+10|435|Garcia Flores|Maria Andrea|anv Satelite|00:31:49.5|48|30-Jan-1975
+11|433|Calderon Agoitia|Marcela Adriana|anv Interlomas|00:32:10.8|48|11-Sep-1974
+12|421|Rodriguez Sanchez|Karla Monica|anv Centenario|00:33:15.3|45|06-May-1977
+13|422|Villagran Resendiz|Katia|anv Coapa|00:37:02.0|45|17-Feb-1977
+14|429|Medrano Rivas|Maria Luisa|anv Satelite|00:38:40.0|47|23-Oct-1975
+15|418|Diaz Revilla|Vanessa|anv Centenario|00:41:08.0|45|11-Jul-1977
+16|438|Torres Segovia|Maria Eugenia|anv Z. Esmeralda|01:05:13.1|49|11-Apr-1973
+17|420|Rivera Lopez|Diana Marina|anv Coapa|01:07:27.0|45|29-Jun-1977
+1|456|Flores Hernandez|Leticia|anv Interlomas|00:17:43.3|53|17-Nov-1969
+2|454|De Mucha Mendiola|Maria Del Pilar|anv Puebla|00:19:21.0|53|16-Apr-1969
+4|458|Pascualli Rivera|Cinthya|anv Puebla|00:19:32.6|53|31-Aug-1969
+5|450|Yebra .|Isabel|anv Santa Fe|00:21:27.1|51|26-Jun-1971
+6|448|Sosa Rubi|Marlem|anv Z. Esmeralda|00:25:49.8|51|18-Dec-1971
+7|449|Trujano Colín|Laura|anv C. de Entrenamiento|00:25:55.8|51|26-Feb-1971
+8|460|Urbina Martinez|Esther|anv Coyoacan|00:26:05.0|53|03-Jul-1969
+9|452|Rebollo Vondûben|Pamela|anv Coyoacan|00:26:14.6|52|23-May-1970
+11|443|Sánchez Mendoza|Guadalupe|anv Coyoacan|00:27:30.1|50|29-Jun-1972
+12|461|Espinosa Garcia|Ligia Lariza|anv Interlomas|00:29:02.0|54|06-Oct-1968
+13|440|Espinoza Arceo|Norma Guadalupe|anv Satelite|00:30:56.1|50|23-Jun-1972
+14|441|Ibañez Diaz|Alejandra|anv San Jeronimo|00:33:13.0|50|20-Nov-1972
+15|457|Garcia Gomez|Marisela|anv San Jeronimo|00:36:05.0|53|02-Apr-1969
+16|444|Casas Oropeza|Amparo|anv Satelite|00:37:42.0|51|19-Jan-1972
+17|453|Albor Aguilera|Ma De Lourdes|anv Las Arboledas|00:41:56.0|53|29-Jan-1970
+18|455|Espinosa Garcia|Zarina Enriqueta|anv Interlomas|00:42:44.0|53|23-Jan-1970
+19|447|Roman Bautista|Ixtacahualt|anv Coapa|00:43:04.0|51|20-Jun-1971
+21|451|Moreno Villagra|Norma|anv Coapa|00:52:16.8|52|10-Dec-1970
+22|463|Valdespino Rodriguez|Leticia|anv Coapa|00:52:26.0|54|25-Feb-1968
+1|468|Tomás Luyando|Leticia|anv Coyoacan|00:23:56.8|56|31-Aug-1966
+2|464|Cabrera Rodriguez|Aida Yolanda|anv Coapa|00:24:36.6|55|01-Aug-1967
+3|469|Toraya Sosa|Gabriela|anv Las Arboledas|00:31:16.0|56|08-Jul-1966
+4|483|Zamora Mojica|Rosa Maria|anv Las Arboledas|00:33:55.0|59|14-Oct-1963
+5|475|Silva Rubio|Monica|anv Satelite|00:34:22.0|57|02-Aug-1965
+6|481|Perez Ureña|Lura|anv Satelite|00:34:30.0|59|06-Sep-1963
+7|482|Puebla Anaya|Dulce|anv Satelite|00:36:29.0|59|13-Jul-1963
+8|465|Gómez Moreno|Arminda|anv C. de Entrenamiento|00:40:25.3|55|26-Sep-1967
+10|471|Colocia Mascot|Magdalena|anv Coapa|00:47:22.1|57|27-Apr-1965
+12|479|Pérez Reséndiz|Guadalupe|anv C. de Entrenamiento|00:54:37.0|58|12-Dec-1964
+13|480|Ramirez Flores|Maria Del Rocio|anv Las Arboledas|00:57:14.0|58|29-Sep-1964
+15|474|Lujano Martinez|Caridad|anv Z. Esmeralda|01:03:36.0|57|26-Apr-1965
+1|486|Escobedo Zoletto|Maria Elena|anv Interlomas|00:23:46.6|61|07-May-1961
+2|491|Carreon Lopez|Laura|anv Satelite|00:23:55.1|62|28-Jan-1961
+3|497|Cervantes Azcona|Cristina|anv Satelite|00:26:10.0|64|24-Jul-1958
+4|498|Gonzalez Del Rio|Esther|anv San Jeronimo|00:27:17.0|64|13-Mar-1958
+5|487|Jimenez Quiroz|Maria Elena|anv Santa Fe|00:33:52.0|61|27-Dec-1961
+6|496|Rivero Melo Mendez|Ana Lilia|anv Coapa|00:37:24.0|63|08-Nov-1959
+7|485|Alvarado Curiel|Maria Teresa|anv Coapa|00:37:33.0|60|11-Mar-1962
+9|492|Morales Jimenez|Ada|anv Coapa|00:51:27.3|62|27-Jun-1960
+10|488|Mayett Moreno|Alejandra|anv Coapa|00:52:28.6|61|24-Mar-1961
+11|494|Olvera Coronilla|Gloria|anv Coyoacan|00:58:31.0|63|02-May-1959
+2|499|Cocina Hernandez|Ana Lorena|anv Satelite|00:33:38.1|66|18-Dec-1956
+3|505|Lopez Pozos|Victoria|anv Coapa|00:42:35.6|68|25-Feb-1954
+5|503|Rojas Nava|Patricia|anv Coyoacan|00:49:54.5|66|11-Mar-1956
+1|507|Arevalo Reyes|Maria Martha|anv Lindavista|00:35:29.3|72|12-Jan-1951
+1|510|Ordoñez López|María Magdalena|anv C. de Entrenamiento|00:48:27.0|78|29-May-1944
+1|541|Garcia Barquet|Iñaki|La Loma QRO|00:18:07.0|10|05-Oct-2012
+2|549|Ortega Espiritu|Miguel|anv Satelite|00:18:10.0|10|27-Feb-2012
+4|536|Chávez Mendoza|Jonathan Andre|La Loma QRO|00:19:07.0|10|06-Jun-2012
+5|511|Alvarado Dominguez|Francisco|anv Interlomas|00:19:45.0|9|07-Aug-2013
+7|539|Espinosa Sommer|Matias|La Loma QRO|00:20:35.0|10|21-Sep-2012
+8|534|Cañedo Gonzalez|Keruv|anv Interlomas|00:20:57.0|10|11-Apr-2012
+9|547|Nader Perea|Juan Pablo|La Loma QRO|00:21:01.0|10|14-Feb-2012
+10|562|Vazquez Serna|Patricio|La Loma QRO|00:21:50.0|10|20-Jun-2012
+11|551|Pacheco Rivas|Emilio|La Loma QRO|00:22:37.0|10|03-Jul-2012
+13|531|Valdespino Armendaríz|Mateo|anv Puebla|00:22:57.0|9|27-May-2013
+14|518|Galaviz De La Cruz|Giovany|anv C. de Entrenamiento|00:22:59.0|9|12-Feb-2013
+15|553|Paz Reyes|Santiago|Alpha swimmer HXQ|00:23:03.0|10|05-Aug-2012
+16|516|Dodson Vargas|Daniel|anv Coyoacan|00:23:13.0|9|08-Mar-2013
+17|524|Mejia Negrete|Juan Carlos|anv C. de Entrenamiento|00:23:46.0|9|21-Apr-2013
+18|522|López Armendáriz|Santiago Íñigo|anv San Jeronimo|00:24:28.0|9|04-Nov-2013
+19|525|Ortiz Borba|Thiago|anv Interlomas|00:24:31.0|9|19-Nov-2013
+20|554|Perez Gonzalez|Mauricio|SportCity|00:24:47.0|10|16-Nov-2012
+21|544|Medina Freyre|Gabriel|anv Interlomas|00:25:13.0|10|31-Aug-2012
+22|555|Ramirez Morales|Ián Santiago|anv San Jeronimo|00:26:01.0|10|12-Jul-2012
+23|556|Reynoso Camacho|Julio Alfonso|anv Coapa|00:26:33.0|10|03-Sep-2012
+24|540|Fuertes Vasquez|Thomas|anv Interlomas|00:29:19.0|10|01-Dec-2012
+25|514|Bas Mora|Nicolas|anv Interlomas|00:29:26.0|9|29-Mar-2013
+26|532|Vasquez Vargas|Cesar|anv Coapa|00:29:30.0|9|29-Nov-2013
+27|546|Mora Jimenez|Gibran|anv C. de Entrenamiento|00:29:46.0|10|20-Dec-2012
+28|558|Samaniego Amezcua|Patricio|anv Interlomas|00:30:38.0|10|14-Jan-2013
+29|559|Santander Velasco|Alonso|La Loma QRO|00:33:47.0|10|02-Aug-2012
+30|537|Consuelo Segura|Xavier|anv Santa Fe|00:34:11.3|10|28-Apr-2012
+31|523|Luna Garcia|Santiago Nicolas|anv Coapa|00:34:24.0|9|15-Nov-2013
+32|528|Silva Alcala|Sebastian|anv Interlomas|00:37:52.3|9|24-Feb-2013
+33|533|Viniegra Sanchez|Alan Adriel|Deportivo Salba|00:38:11.6|9|09-Jul-2013
+34|552|Parada Velasco|Teodoro|anv Coapa|00:39:04.5|10|22-Dec-2012
+35|515|Carrillo Morales|Fernando|anv Plaza Central|00:42:28.8|9|23-Aug-2013
+36|526|Rodriguez Arenas|Cedrik|anv Interlomas|00:45:04.0|9|22-Jan-2014
+37|517|Flores López|Emilio|anv Puebla|00:57:38.3|9|23-Feb-2013
+38|557|Rojas Romero|Roberto|anv Z. Esmeralda|02:38:38.5|10|12-Jul-2012
+1|576|Hirata Paniagua|Kenjiro Mateo|SportCity|00:14:43.8|11|08-Apr-2011
+2|593|Sixtos Torres|Diego Benjamin|anv Lindavista|00:14:46.0|11|16-Mar-2011
+3|625|Trujano Schumacher|Leonardo|anv Coyoacan|00:14:55.1|12|24-Jun-2010
+4|597|Arias Rivera|Diego|anv Interlomas|00:15:32.8|12|11-Sep-2010
+6|610|Kibanov Sazykina|Andrey|anv Interlomas|00:16:20.5|12|18-Aug-2010
+7|600|Ceron Martinez|Angel Emiliano|anv Las Arboledas|00:16:34.0|12|20-Apr-2010
+8|595|Vega Sosa|Emiliano|anv Z. Esmeralda|00:17:44.6|11|17-Oct-2011
+9|598|Candido Romero|Emiliano|anv Coyoacan|00:17:45.3|12|15-May-2010
+10|612|Malagon Callejas|Aldo|anv Lindavista|00:17:45.8|12|26-Jul-2010
+11|618|Olivarez Romero|Jose Emiliano|anv Santa Fe|00:17:47.6|12|15-Jul-2010
+12|564|Acevedo Sanchez|Santiago|anv Santa Fe|00:18:11.8|11|09-Aug-2011
+13|567|Arvizu Hernandez|Gerardo Isaac|La Loma QRO|00:18:12.0|11|09-Aug-2011
+14|586|Rivera Plascencia|Ivo Uriel|La Loma QRO|00:18:13.0|11|09-Mar-2011
+15|571|Espindola Rangel|Jose Antonio|anv C. de Entrenamiento|00:18:23.0|11|11-Nov-2011
+16|581|Olvera Santiago|Demian Isaac|anv Plaza Central|00:18:23.3|11|28-Feb-2011
+17|578|Le Roy Soto|Pascal|anv Interlomas|00:18:27.0|11|01-Apr-2011
+18|560|Senties Acosta|Jose Maria|anv Coyoacan|00:18:40.6|11|04-Jan-2012
+19|624|Segundo Valdez|Sebastian|anv Interlomas|00:18:46.8|12|10-Aug-2010
+20|594|Vargas Vergara|Sebastían|anv Puebla|00:18:52.8|11|10-Mar-2011
+21|572|Gonzalez Hernandez|Emilio|anv Lindavista|00:19:04.5|11|24-Jan-2012
+22|569|Benavides Zambrano|Jibran|anv Lindavista|00:19:06.0|11|21-Apr-2011
+23|621|Ramirez Lozada|Matias Demian|anv Coyoacan|00:19:08.6|12|18-Nov-2010
+24|606|Garcia Newberry|Jorge|anv Satelite|00:19:11.6|12|20-Aug-2010
+25|605|Faustro Ramirez|Fabian|anv Plaza Central|00:19:14.8|12|05-Jun-2010
+26|611|Lopez Becerra|Emiliano Balam|anv Coyoacan|00:21:12.1|12|05-Jun-2010
+27|589|Rodriguez Piña|Maximo|La Loma QRO|00:21:16.1|11|03-Oct-2011
+28|574|Govea Torres|Aaron|anv Puebla|00:21:44.6|11|24-Aug-2011
+29|575|Hernandez Navarro|Jose Julian|SportCity|00:21:47.0|11|04-Dec-2011
+30|596|Villegas Rosas|Emmanuel|anv C. de Entrenamiento|00:22:04.6|11|03-Dec-2011
+31|563|Aboitiz Meza|Martin|anv Z. Esmeralda|00:22:05.6|11|26-Apr-2011
+32|573|González Villatoro|Leonardo|La Loma QRO|00:22:07.0|11|27-Oct-2011
+33|583|Patlani Sanchez|Juan Emmanuel|Deportivo Salba|00:22:28.1|11|24-Jun-2011
+34|585|Ramirez Soto|Sebastián|anv Z. Esmeralda|00:22:43.1|11|11-Jun-2011
+35|579|Murguía Tcetchoulina|Ivan|anv San Jeronimo|00:22:49.0|11|30-Aug-2011
+36|590|Ruíz Xoxotla|Christian Ronaldo|Deportivo Salba|00:23:36.1|11|02-Feb-2012
+37|587|Rivero Aguirre|Adrian|anv C. de Entrenamiento|00:24:34.6|11|18-Jan-2012
+38|609|Jimenez Granados|Cesar Uriel|anv Plaza Central|00:25:26.0|12|09-Jun-2010
+39|608|Ibarra Aguirre|Patricio|La Loma QRO|00:25:28.0|12|18-Sep-2010
+40|604|Escamilla Sanchez|Axel|anv San Jeronimo|00:25:31.0|12|18-Nov-2010
+41|584|Ramirez Garin|Victor Manuel|anv Las Arboledas|00:27:29.0|11|07-Jun-2011
+42|607|García Sánchez|Nicolás|anv San Jeronimo|00:27:53.0|12|14-Feb-2010
+43|622|Reynoso Camacho|Javier|anv Coapa|00:29:18.0|12|12-Dec-2010
+44|570|Camacho Rios|Leonardo|anv Coapa|00:29:36.0|11|08-Apr-2011
+45|577|Jimenez Marquez|Mateo|anv Coapa|00:29:58.0|11|14-Jul-2011
+46|568|Barrera Sandoval|Mateo Alfredo|anv Plaza Central|00:30:03.0|11|06-May-2011
+48|613|Martinez Villarruel|Iker Eduardo|anv Coapa|00:31:14.0|12|08-Jan-2011
+49|565|Angeles Tovar|Paulo Leonardo|Club de Golf Bellavista|00:32:45.0|11|06-Jan-2012
+50|623|Rivas Ballesteros|Pedro David|anv San Jeronimo|00:34:05.0|12|29-Sep-2010
+51|592|Sanchez Villagomez|Luis Ivan|anv Interlomas|00:35:03.0|11|11-Sep-2011
+52|582|Ortega Rodriguez|Carlos Daniel|anv San Jeronimo|00:44:29.0|11|09-Oct-2011
+53|603|De La Torre Gonzalez|Jorge Alejandro|anv Santa Fe|00:46:57.0|12|20-Jul-2010
+54|588|Robles Nava|Constanza|Deportivo Salba|00:50:37.0|11|27-Jul-2011
+55|566|Apis Tellez|Emir|anv Coapa|01:01:43.0|11|27-Jan-2012
+56|620|Perez Rubio|Leonardo|anv Santa Fe|01:10:29.8|12|08-Nov-2010
+57|615|Mercado Herrera|Axel Antonino|anv Centenario|01:13:21.0|12|27-Apr-2010
+1|665|Frías Ramírez|Sócrates Kharlos|anv Puebla|00:13:45.3|14|08-Aug-2008
+2|679|Soto Fonseca|Emilio|anv Interlomas|00:13:50.5|14|24-Jul-2008
+4|654|Arias Rivera|Santiago|anv Interlomas|00:14:27.1|14|14-Aug-2008
+5|656|Carrocini Tescarolo|Davi|anv Interlomas|00:14:29.8|14|05-Sep-2008
+7|680|Urrutia Ocariz|Abraham|anv Z. Esmeralda|00:15:01.0|14|01-Aug-2008
+8|662|Feldhaus Farias|Luka|anv Santa Fe|00:15:14.0|14|01-Aug-2008
+9|645|Rodriguez Morales|Cosme Ivan|anv Coyoacan|00:15:14.8|13|14-Jul-2009
+10|637|Lara Reyes|Andrés|anv Z. Esmeralda|00:15:15.8|13|14-Sep-2009
+11|649|Aboitiz Meza|Jose María|anv Z. Esmeralda|00:15:17.0|14|23-Mar-2008
+12|634|Hernandez Guerrero|Diego|anv Santa Fe|00:15:18.0|13|18-Mar-2009
+13|681|Vargas Vergara|Mateo|anv Puebla|00:15:20.0|14|23-Jan-2009
+14|635|Herrera Cervantes|Rodrigo|anv Coyoacan|00:15:20.3|13|23-Aug-2009
+15|639|Matsumoto Paniagua|Jesus Yoyi|SportCity|00:15:28.3|13|20-Jan-2010
+16|629|Espindola Rangel|Rafael|anv C. de Entrenamiento|00:15:36.0|13|17-Jul-2009
+17|631|Galvez Alvarado|Federico|anv C. de Entrenamiento|00:15:38.1|13|11-Mar-2009
+18|666|Garcia Barranco|Eduardo|Alpha swimmer HXQ|00:15:42.0|14|09-Feb-2009
+19|670|Lozano Zurita|Santiago|anv Puebla|00:15:43.0|14|01-Jun-2008
+20|642|Nuñez Castañeda|Matias|anv Interlomas|00:15:43.1|13|29-Apr-2009
+21|671|Marin Muciño|Eduardo|Alpha swimmer HXQ|00:15:48.0|14|20-Dec-2008
+22|672|Marquez De Alba|Jose Roberto|anv Coyoacan|00:15:53.0|14|20-Dec-2008
+25|678|Rosas Guerrero|Jose Luis|anv Z. Esmeralda|00:16:21.0|14|19-Nov-2008
+26|626|Almagro Nava|Juan Pablo|anv Interlomas|00:17:06.3|13|13-Sep-2009
+27|632|Gonzalez Aguilar|Iker|anv Lindavista|00:17:07.3|13|06-Nov-2009
+28|640|Meza Perez|Jorge Emilo|anv Interlomas|00:17:57.3|13|09-Apr-2009
+29|655|Carrete Wagner|Jose Miguel|anv Santa Fe|00:18:14.0|14|06-Apr-2008
+30|661|Escalante Corona|Jorge Emilio|anv C. de Entrenamiento|00:18:33.0|14|13-Oct-2008
+31|676|Pacheco Rivas|Leonardo|La Loma QRO|00:18:38.0|14|17-Jul-2008
+32|657|Castillo Camarena|Pablo|anv Z. Esmeralda|00:18:48.0|14|19-Nov-2008
+33|673|Mendoza García|Orlando|anv Puebla|00:19:23.0|14|16-Jun-2008
+34|643|Ortiz Diaz|Samuel|anv Las Arboledas|00:19:41.8|13|13-Oct-2009
+35|652|Aguirre|Fabian Jose|anv Coyoacan|00:20:29.0|14|07-Jul-2008
+36|674|Muñoz Santiago|Fernando|anv Satelite|00:21:11.0|14|14-May-2008
+37|653|Alvarez Fernandez|Santiago|anv San Jeronimo|00:21:12.0|14|05-Sep-2008
+38|660|Dominguez Flores|Felix Santiago|anv San Jeronimo|00:21:28.0|14|26-May-2008
+39|651|Aguila Lara|Juan Carlos|anv Plaza Central|00:21:37.0|14|23-Jan-2009
+40|646|Segundo Valdez|Patricio|anv Interlomas|00:22:13.0|13|07-May-2009
+41|641|Nader Perea|Jorge|La Loma QRO|00:22:46.0|13|30-Jun-2009
+42|630|Fonseca Jankay|Omar Federico|La Loma QRO|00:23:14.0|13|20-May-2009
+43|648|Valdez Medina|Ivan Rolando|anv Centenario|00:23:43.0|13|28-Feb-2009
+44|663|Flores Gamez|Luis Felipe|anv San Jeronimo|00:24:10.0|14|26-Jan-2009
+45|650|Acosta Alvarez|Marco Antonio|anv Lindavista|00:25:10.8|14|25-Jun-2008
+46|669|Hernandez Rojas|Cesar Alejandro|anv San Jeronimo|00:25:22.5|14|17-Nov-2008
+47|659|De La Mora Arroyo|Rodrigo|anv Centenario|00:25:57.8|14|29-Apr-2008
+48|628|Dominguez Martinez|Fernando Manuel|anv Centenario|00:27:15.0|13|14-Jul-2009
+49|667|Garcia Moreno|Fernando|La Loma QRO|00:27:47.6|14|30-Jul-2008
+50|638|Leal Amador|Samuel|anv Coapa|00:27:48.0|13|23-Sep-2009
+51|683|Zarate Martinez|Alonso|anv Coyoacan|00:29:55.5|14|28-Aug-2008
+52|644|Rangel Colin|Issac|anv Interlomas|00:32:51.3|13|20-Nov-2009
+53|675|Olivares Monjaraz|Diego Azael|anv Plaza Central|00:33:41.1|14|14-Dec-2008
+54|636|Juarez Vega|Luis Alberto|anv Coapa|00:37:07.3|13|12-Mar-2009
+1|687|Carpintero Lopez|Rodrigo|anv Interlomas|00:13:04.0|15|03-Jul-2007
+2|702|Rodriguez Moscoso|Alonso|anv Interlomas|00:13:06.0|15|09-May-2007
+3|686|Basilio Palacios|Iker Andre|anv C. de Entrenamiento|00:13:54.0|15|06-Nov-2007
+4|694|Hernandez Padilla|Santiago|anv Interlomas|00:14:10.0|15|30-Apr-2007
+5|699|Parra Santos|Diego|anv Puebla|00:14:12.0|15|02-Apr-2007
+6|703|Romero Barcenas|Netz|anv C. de Entrenamiento|00:14:16.0|15|29-May-2007
+7|685|Anaya Torres|Francisco|anv Puebla|00:14:27.0|15|02-Sep-2007
+8|706|Sanchez Osornio|Rafael|La Loma QRO|00:14:31.0|15|28-Sep-2007
+9|684|Acevedo Sanchez|Alexander|anv Santa Fe|00:14:45.0|15|29-Jan-2008
+10|717|Guerra Pérez|Emiliano|anv Puebla|00:14:59.0|16|13-Oct-2006
+11|704|Rosales Siguenza|Tonatiuh|La Loma QRO|00:15:23.0|15|20-Oct-2007
+13|714|Flores Torres|Mateo|anv Santa Fe|00:15:28.0|16|04-Jan-2007
+14|715|Gómez Tagle Trejo|Benjamín|anv San Jeronimo|00:15:52.0|16|10-Jan-2007
+15|701|Regalado Villalon|Diego Antonio|anv Lindavista|00:16:02.0|15|06-Oct-2007
+16|713|Elnejem Arcos|Hassan|anv Lindavista|00:16:07.0|16|21-Feb-2006
+17|721|Sanchez Vidal|Said Abraham|anv C. de Entrenamiento|00:16:27.0|16|31-Oct-2006
+18|710|Albarran Gonzalez|Gustavo Enrique|anv Santa Fe|00:16:29.0|16|18-Feb-2006
+19|696|Ibarra Granados|Julián|anv Puebla|00:16:34.0|15|10-Oct-2007
+20|722|Villegas Avendaño|Jorge|anv Puebla|00:16:48.0|16|24-Jul-2006
+21|708|Vega Sosa|Santiago|anv Z. Esmeralda|00:16:50.0|15|16-Oct-2007
+24|690|Dietzetommasi|Stephan|anv San Jeronimo|00:17:48.0|15|07-Feb-2008
+25|693|Hernandez Martinez|Angel Yael|Alpha swimmer HXQ|00:18:23.0|15|01-Jul-2007
+26|711|Benavides Zambrano|Jamil|anv Lindavista|00:19:18.6|16|27-Jun-2006
+27|716|Granados Lopez|Hector Jaciel|Alpha swimmer HXQ|00:20:51.0|16|20-Mar-2006
+28|688|Chavez Aranda|Emiliano|anv Satelite|00:21:42.1|15|12-Mar-2007
+29|705|Rovira Tejeda|Octavio|anv C. de Entrenamiento|00:22:35.5|15|30-Mar-2007
+30|719|Salazar Mayet|Luis Carlos|La Loma QRO|00:23:04.0|16|23-Oct-2006
+31|692|Hernandez Gómez|Erick|anv Puebla|00:23:07.6|15|30-Nov-2007
+32|709|Velazquez Castro|Francisco Ariel|anv Coapa|00:23:14.3|15|08-Jun-2007
+33|689|Chavez Vargas|Emiliano|anv Plaza Central|00:23:25.0|15|30-Aug-2007
+34|700|Ramirez Herrera|Diego|anv Plaza Central|00:24:36.6|15|06-Jul-2007
+35|691|González Hernández|Angel Nicolas|anv Z. Esmeralda|00:24:54.0|15|12-Jun-2007
+36|720|Sanchez Contreras|Erick Chris|anv Coyoacan|00:37:08.0|16|21-Sep-2006
+37|712|Benito Díaz|Gustavo|Deportivo Salba|01:09:40.0|16|18-Dec-2006
+1|739|Torre Sosa|Omar Emiliano|anv Interlomas|00:13:42.0|17|20-May-2005
+2|728|Hernandez Veloz|Nahum|anv Interlomas|00:13:44.0|17|12-Mar-2005
+3|735|Ochoa Neurouth|Nathaniel|anv C. de Entrenamiento|00:13:47.0|17|17-May-2005
+4|723|Aguliar Leon|Matias|anv Interlomas|00:13:47.1|17|14-Feb-2005
+5|744|Guzman Del Bosque|Alberto|anv Interlomas|00:13:47.6|18|04-May-2004
+6|727|Garcia Flores|Juan Carlos|anv Coyoacan|00:14:15.8|17|17-Dec-2005
+7|742|Castro Matias|Luis Eduardo|anv C. de Entrenamiento|00:14:50.1|18|01-Dec-2004
+8|732|Marin Muciño|Enrique|Alpha swimmer HXQ|00:16:23.6|17|16-Jan-2006
+9|724|Barreiro Herrera|Jerónimo|anv Z. Esmeralda|00:16:29.3|17|04-Oct-2005
+10|750|Valles Prado|Mario|anv Interlomas|00:16:51.3|18|17-Dec-2004
+11|729|Hollis García|Alan|anv Puebla|00:18:27.0|17|28-May-2005
+12|725|Briseño Acedo|Luis Emilio|anv Puebla|00:19:23.8|17|17-Jul-2005
+13|736|Santos Delgado|Alejandro|anv Z. Esmeralda|00:19:29.8|17|22-Jul-2005
+14|741|Trujillo Hernandez|Mario|anv Coyoacan|00:21:53.0|17|06-Dec-2005
+15|746|Martinez Villarruel|Max Alejandro|anv Coapa|00:22:23.0|18|22-Jul-2004
+16|749|Montes De Oca Flores|Jose Alfredo|anv Coyoacan|00:22:45.0|18|20-Sep-2004
+17|745|Martinez Ramirez|Abraham|anv Lindavista|00:23:30.0|18|25-Aug-2004
+19|743|Guerrero Mendoza|Armando|anv Plaza Central|00:25:13.0|18|15-Dec-2004
+20|737|Santoyo Rodriguez|Jose Antonio|anv Coyoacan|00:26:43.0|17|18-Jan-2006
+21|740|Trejo Sanchez|Erick Javier|anv Coapa|00:34:50.0|17|26-Oct-2005
+22|730|Kwok Bello|Leonardo|anv Coapa|00:41:34.0|17|09-Apr-2005
+23|748|Montaño Gonzalez|Omar|anv Coyoacan|00:42:39.0|18|06-Aug-2004
+24|747|Montaño Gonzalez|Eduardo|anv Coyoacan|00:45:57.0|18|06-Aug-2004
+1|755|Blanco Guido|Santiago|anv Interlomas|00:12:55.0|20|06-Jul-2002
+2|754|Berdejo Rodríguez|Fernando|anv Puebla|00:13:00.0|20|30-Dec-2002
+3|752|Romero Barcenas|Yosvel|anv C. de Entrenamiento|00:13:04.0|19|09-Oct-2003
+5|757|Ball Araiza|Ian|anv Satelite|00:15:29.8|21|24-Jul-2001
+6|776|Colombo Gonzalez|Eduardo|anv Interlomas|00:15:30.1|24|05-Jan-1999
+7|769|De La Cruz Mejia|Armando|anv Interlomas|00:15:38.8|23|10-Mar-1999
+8|756|Castillo Hernández|Santiago|anv C. de Entrenamiento|00:15:40.3|20|17-Jun-2002
+9|761|Ochoa Neurouth|Rodrigo|anv C. de Entrenamiento|00:17:17.6|21|21-Mar-2001
+10|762|Ortiz Solorio|Victor|anv Z. Esmeralda|00:17:18.6|21|16-Feb-2001
+11|763|Gonzalez Cosio|Mateo|anv Interlomas|00:17:30.0|22|14-Apr-2000
+12|753|Aguliar Leon|Emilio|anv Interlomas|00:17:38.3|20|31-Aug-2002
+13|764|Hernandez Morales|Gerardo|anv Coapa|00:17:49.0|22|03-Dec-2000
+14|760|Moreno López|Saúl Maximiliano|anv Z. Esmeralda|00:18:27.0|21|28-Jun-2001
+15|765|Picon Ruiz|Cristobal|anv Z. Esmeralda|00:18:45.0|22|06-Mar-2000
+16|778|Martín Casillas|Alejandro|anv C. de Entrenamiento|00:20:26.8|24|23-Jun-1998
+17|768|Aranzabal Stener|Pablo|anv Interlomas|00:20:32.6|23|02-Jul-1999
+18|759|Elizondo Lopez|Alejandro|anv Interlomas|00:20:37.0|21|11-Sep-2001
+19|775|Armenta Gonzalez|Oliver|anv Puebla|00:20:48.0|24|21-Feb-1998
+20|774|Tizatl Moreno|Salvador David|anv Lindavista|00:21:46.1|23|21-Jun-1999
+21|770|Mariscal Paetau|Tarek|anv Satelite|00:22:29.6|23|07-Feb-2000
+22|771|Perez Buendia|Ismael Alejandro|anv Lindavista|00:23:36.1|23|02-Dec-1999
+23|751|Arce Martinez|Francisco Haziel|anv Centenario|00:25:49.6|19|12-Nov-2003
+24|766|Ramirez Tellez|Rodrigo|anv Coapa|00:29:05.0|22|09-Feb-2001
+25|777|Dehita Jasso|Alvaro|anv Coapa|00:33:21.0|24|25-Aug-1998
+26|767|Resendiz Gonzalez|Eduardo Missael|SportCity|00:37:43.8|22|25-Feb-2000
+27|758|Bravo Rueda|Pablo|anv San Jeronimo|02:03:17.0|21|17-Aug-2001
+1|810|Saldivar Guzmán|Mosises|anv Puebla|00:12:47.6|28|02-Dec-1994
+2|801|Diaz Diaz|Jose Antonio|anv Puebla|00:15:03.0|28|08-May-1994
+3|812|Alpízar Vázquez|Diego|anv C. de Entrenamiento|00:16:14.8|29|21-May-1993
+4|787|Angeles Guzman|Guivani Ehecatl|anv Las Arboledas|00:18:05.6|26|25-Oct-1996
+5|800|Torres Castañeda|Juan Carlos|anv Puebla|00:22:09.1|27|15-Apr-1995
+7|804|Herrera Portilla|Jose Emmanuel|SportCity|00:22:43.6|28|18-Jul-1994
+8|816|Reyes Ramirez|Leonel|anv Coapa|00:22:58.0|29|22-Jul-1993
+9|818|Rosales Benitez|Raul Abdiel|anv Plaza Central|00:23:38.8|29|05-Jul-1993
+10|786|Vilchis Correa|Miguel|anv Satelite|00:24:15.8|25|03-Oct-1997
+11|793|Lopez Pastrana|Francisco|SportCity|00:24:26.3|26|10-Jul-1996
+13|794|Marquina Ojeda|Edmunlu Oscar|anv Centenario|00:24:51.6|26|25-Apr-1996
+14|802|Esquivel Ramirez|Mauricio|anv Satelite|00:24:56.6|28|30-Nov-1994
+15|799|Sanabria Soto|Juan Pablo|anv Lindavista|00:25:18.0|27|28-Mar-1995
+16|789|Fortoul Diaz|Alejandro|anv Puebla|00:25:19.6|26|14-Jul-1996
+18|797|Sierra Linares|Juan Carlos|anv San Jeronimo|00:25:31.1|26|08-Mar-1996
+19|796|Santana Martinez|Humberto|anv Lindavista|00:26:16.8|26|26-Nov-1996
+20|817|Rivera Granadino|Fidel Angel|anv Las Arboledas|00:27:59.8|29|30-Nov-1993
+21|795|Pedroza Manrique|Ivan Yabin|Alpha swimmer HXQ|00:29:08.3|26|19-Sep-1996
+22|790|Gaytan Bautista|Dante Arturo|anv Coapa|00:29:30.0|26|14-Mar-1996
+23|788|Carranza Ortega|Cesar Alexis|anv Lindavista|00:29:52.3|26|19-Jun-1996
+24|784|Sanchez Cruz|Sergio Aldhair|anv Las Arboledas|00:29:57.6|25|25-Feb-1997
+25|782|Flores Zenteno|Alfonso|anv Centenario|00:32:30.3|25|03-Feb-1998
+27|809|Rosette Garcia|Oscar Manuel|anv Coapa|00:34:09.0|28|12-Mar-1994
+28|781|Andrade Ramirez|Alan|anv Lindavista|00:34:27.1|25|09-Apr-1997
+30|783|Pancardo Sanchez|Daniel|anv Satelite|00:36:10.1|25|27-Sep-1997
+31|813|Juarez Ortiz|Irvin|anv Las Arboledas|00:48:17.6|29|13-Sep-1993
+1|820|Sanchez Cervantes|Arturo|anv Satelite|00:14:31.6|30|26-Mar-1992
+2|829|Cuautle Saldivar|Jorge Luis|anv Puebla|00:16:55.5|32|30-Nov-1990
+3|972|Carreto Chapa|Fernando|anv San Jeronimo|00:17:05.3|32|14-Aug-1991
+4|830|Fortoul Diaz|Jesus Anselmo|anv Puebla|00:19:03.1|32|02-Jan-1991
+5|821|Velasco Miñon|Damian|anv Plaza Central|00:19:24.8|30|12-Jun-1992
+7|834|Cervantes Espinosa|Alberto Efrain|anv Las Arboledas|00:21:26.8|33|02-Aug-1989
+8|828|Vargas Sigala|Hector|anv Z. Esmeralda|00:21:32.8|31|15-Aug-1991
+9|837|Hernandez Rodriguez|Daniel Jassiel|anv Puebla|00:21:47.0|33|08-Mar-1989
+10|819|Reyna Gonzalez|Enrique|anv Satelite|00:24:05.0|30|22-Nov-1992
+11|838|Flores Cano|Luis Alberto|anv Lindavista|00:26:25.8|34|30-Jan-1989
+12|835|Colin Cortes|Octavio|anv Coapa|00:28:12.6|33|14-Oct-1989
+15|825|Martinez Vargas|Michaelle|anv Las Arboledas|00:37:51.8|31|20-Feb-1991
+16|823|Flores Arzate|Mauricio|anv Coapa|00:39:41.8|31|25-Jun-1991
+17|832|Rios Nava|Victor Alfonso|anv San Jeronimo|00:39:59.6|32|29-Mar-1990
+18|839|Galindo Sanchez|Hector Gerardo|anv Satelite|00:45:04.5|34|25-Oct-1988
+19|841|Ruiz Vega|David Ramon|anv Puebla|00:50:34.8|34|07-Aug-1988
+20|836|Cosme Grajeda|Miguel Angel|anv Coapa|01:09:37.1|33|01-Jan-1990
+21|840|Mendez Tapia|Francisco|anv Coyoacan|01:53:14.0|34|21-Jan-1989
+1|862|Zamudio Cedillo|Jose Luis|anv Satelite|00:16:16.3|38|06-Jun-1984
+2|859|Garcia Garcia|Manuel|anv Puebla|00:17:43.6|38|31-Jul-1984
+3|865|Diaz Garzon Carballido|Guillermo|anv Interlomas|00:19:44.1|39|07-Apr-1983
+4|856|Alvarez Estrada|Marco Antonio|anv Satelite|00:20:14.3|38|20-Aug-1984
+6|849|Morales Menendez Conde|Mauricio|anv Satelite|00:21:38.6|36|07-Nov-1986
+7|844|Guzman Guzman|Jose Antonio|anv Lindavista|00:21:46.8|35|08-Apr-1987
+8|858|Calvillo Alvarez|Cesar|anv Lindavista|00:22:13.5|38|04-Dec-1984
+9|861|Pulido Garcia|Carlos Eleazar|Club de Golf Bellavista|00:24:14.3|38|23-Aug-1984
+10|854|Meneses Tovar|Jonathan|anv Satelite|00:24:16.0|37|14-Jun-1985
+11|857|Ayala Colin|Jesus|anv Lindavista|00:24:20.6|38|01-Nov-1984
+13|846|Cano Argüello|Christopher|anv C. de Entrenamiento|00:24:50.1|36|26-Apr-1986
+14|848|Mancilla Gonzalez|Jorge Arturo|anv Lindavista|00:25:43.3|36|10-Feb-1987
+15|868|Nemias Florencio|Da Silva Junior|anv Z. Esmeralda|00:27:54.3|39|31-Mar-1983
+16|852|Castro Garcia|Eder|anv Satelite|00:28:56.0|37|14-Oct-1985
+17|850|Rodriguez Maier|Antonio|anv Coyoacan|00:29:29.0|36|19-May-1986
+18|869|Rodriguez Flores|Jose De Jesus|anv Las Arboledas|00:30:26.8|39|28-Jun-1983
+19|855|Sánchez Gómez|Aldo Guillermo|anv Z. Esmeralda|00:33:35.1|37|24-Oct-1985
+21|863|Álvarez Castrejón|Alberto Evaristo|anv C. de Entrenamiento|00:35:35.5|39|15-Aug-1983
+22|853|Isaias Flores|Alejandro Andrés|anv Plaza Central|00:37:28.6|37|24-Jul-1985
+23|864|Cupa Bremont|Jorge Ivan|anv C. de Entrenamiento|00:39:15.0|39|29-Apr-1983
+24|845|Montesinos Moreno|Hector David|anv Las Arboledas|00:39:26.0|35|03-Apr-1987
+25|867|Maturano Saldaña|Juan Carlos|anv Satelite|00:46:02.3|39|01-Dec-1983
+1|874|Vega Mayen|Jonathan Eder|anv Las Arboledas|00:17:12.5|40|10-Aug-1982
+2|890|Ponce Del Castillo|Fabian|anv Satelite|00:17:32.6|44|29-Mar-1978
+3|891|Sanchez Gonzalez|Ruben|anv Satelite|00:18:34.0|44|02-Jan-1979
+4|872|Hernandez Ocaña|Omar|anv Satelite|00:19:34.3|40|01-Feb-1983
+6|889|Oviedo Belchez|Juan Carlos|anv C. de Entrenamiento|00:21:30.1|44|11-Nov-1978
+7|871|Gonzalez Segreste|Jose Ramon|anv Lindavista|00:21:47.1|40|03-Nov-1982
+8|870|Cano Argüello|Carlos|anv C. de Entrenamiento|00:23:43.8|40|07-Sep-1982
+9|881|Gonzalez Phillips|David|anv Coyoacan|00:23:58.8|42|11-Jun-1980
+11|882|Mendo Barreda|Mario Antonio|anv Satelite|00:25:50.5|42|21-Sep-1980
+13|888|Barney Maldonado|Edgar Ricardo|anv Satelite|00:27:59.1|44|06-Sep-1978
+14|877|Sanchez Vargas|Juan Ivan|anv Satelite|00:28:59.3|41|07-Jan-1982
+15|884|Fenton . Adam|Lee|anv Santa Fe|00:30:23.6|43|07-Oct-1979
+16|876|Arellano Anguiano|Abraham Rafael|anv Lindavista|00:31:03.1|41|19-Sep-1981
+17|873|Santiago Hernandez|Miguel Angel|anv Plaza Central|00:33:30.5|40|05-Oct-1982
+18|887|Abreu Manzanares|Jorge|anv C. de Entrenamiento|00:39:09.5|44|24-Jun-1978
+19|883|Mendoza Galvan|Julio Cesar|anv Satelite|00:39:11.0|42|08-Dec-1980
+20|880|Diaz Lopez|Jose Joaquin|anv Satelite|00:39:49.8|42|18-Jan-1981
+21|875|Aguilar Cruz|Edgar Antonio|anv Lindavista|00:40:10.1|41|07-Jul-1981
+22|885|Flores Cedillo|Jorge|anv Plaza Central|01:09:46.0|43|05-Jun-1979
+1|903|Vargas Diaz|Gonzalo|anv Z. Esmeralda|00:17:06.6|46|03-Jul-1976
+2|923|Aguilar Hinojosa|Erick Gerardo|anv Interlomas|00:17:33.1|49|03-Aug-1973
+4|927|Tovar Hernandez|Marco Braulio|anv Satelite|00:20:27.0|49|28-May-1973
+6|916|Chavez Camacho|Alejandro|anv Satelite|00:21:51.0|48|18-Jan-1975
+7|913|Victoria Cabrera|Omar Gerardo|anv Lindavista|00:22:30.8|47|28-Sep-1975
+8|908|Cerda Molina|Jonathan|anv Interlomas|00:23:11.5|47|20-Feb-1975
+9|910|Kearney|Ignacio Javier|anv Z. Esmeralda|00:23:13.3|47|03-Feb-1976
+10|902|Morales López|Alejandro|anv Z. Esmeralda|00:23:32.8|46|07-Apr-1976
+11|898|Ortiz Oropeza|Joel|Alpha swimmer HXQ|00:25:01.6|45|13-Jul-1977
+12|917|Cordova Melendez|Jesus|anv Las Arboledas|00:25:32.3|48|25-Dec-1974
+13|926|Torres Osornio|Juan Luis|anv Satelite|00:26:01.0|49|20-Jan-1974
+14|906|Bas Franco|Armando|anv Interlomas|00:26:43.3|47|04-Feb-1976
+15|905|Ayala Colin|Alfonso|anv Interlomas|00:27:58.3|47|26-Jan-1976
+16|895|Lizarraga Contreras|Oscar Humberto|anv Z. Esmeralda|00:28:10.0|45|01-Jul-1977
+17|912|Martinez Coronel|Fernando|anv Lindavista|00:28:29.1|47|29-Nov-1975
+19|924|Privitera Ferrari|Santiago|anv Interlomas|00:29:05.3|49|04-Jan-1974
+20|901|Martinez Guerrero|Jose Salvador|anv Las Arboledas|00:29:55.0|46|19-Mar-1976
+21|909|Cisneros Renteria|Cesar|anv Plaza Central|00:30:18.5|47|17-Jan-1976
+22|915|Camacho Ramos|Guillermo|anv C. de Entrenamiento|00:30:45.8|48|26-Aug-1974
+23|914|Barceinas Guevara|Adolfo|anv Interlomas|00:30:47.3|48|19-Dec-1974
+24|894|Escamilla Garcia|Silvano|anv San Jeronimo|00:31:10.8|45|04-May-1977
+25|899|Ortiz Sanchez|Carlos Osvaldo|anv Coapa|00:31:32.3|45|15-May-1977
+26|922|Villafañe Ordoñez|Gerardo|anv Coapa|00:35:06.8|48|13-Apr-1974
+27|920|Fernandez Ortiz|Carlos Ayax|anv San Jeronimo|00:36:24.6|48|22-Jun-1974
+28|897|Muñoz Ledezma|Antonio|anv Satelite|00:38:57.3|45|19-Oct-1977
+29|921|Flores Flores|Enrique|anv Coapa|00:41:04.1|48|03-Jul-1974
+30|919|Escalante Hernandez|Jorge|anv Coapa|00:51:24.0|48|30-Jan-1975
+31|925|Rivera Elorza|Jorge|anv Lindavista|00:54:33.0|49|11-Jul-1973
+1|930|Romero Duran|Jose Netz|anv C. de Entrenamiento|00:19:30.1|50|13-Jan-1973
+2|943|Casis Pasquel|Jose Miguel|anv Las Arboledas|00:19:40.6|54|10-Feb-1969
+3|945|Lorenzana Ruiz|Marco Antonio|anv Satelite|00:22:20.6|54|24-Nov-1968
+5|933|Guarro Figueroa|Jorge|anv Coyoacan|00:23:18.5|51|05-Jan-1972
+6|942|Vazquez Hernandez|Marco Antonio|anv Las Arboledas|00:24:08.5|53|28-Nov-1969
+7|941|Guerrero San Vicente|Arturo|anv San Jeronimo|00:24:24.6|53|11-Oct-1969
+9|934|Hutzil Melendez|Pedro Javier|anv Lindavista|00:24:55.6|51|29-May-1971
+10|948|Santillan Del Rio|Eduardo|anv Interlomas|00:25:11.0|54|01-Aug-1968
+11|940|Gayosso Noricumbo|Rubén Isaac|anv Z. Esmeralda|00:25:38.6|53|24-Feb-1969
+12|931|De La Rosa Rodriguez|Gustavo|anv Lindavista|00:30:34.3|51|14-Sep-1971
+13|932|Donis Jarquin|Luis Roberto|anv San Jeronimo|00:30:36.6|51|09-Feb-1972
+14|935|Ortiz Saavedra|Yvan|anv Centenario|00:30:38.0|51|01-Aug-1971
+15|936|Trejo Jimenez|Esteban Jehu|anv Coyoacan|00:31:25.6|51|08-Aug-1971
+16|937|Alvarez Rivero|Jorge Victor|anv Satelite|00:32:14.8|52|07-Nov-1970
+17|939|Chaparro Aguilera|Gerardo Abel|anv Satelite|00:34:17.6|53|18-Jul-1969
+18|938|Ramirez Miranda|Emilio|anv Coapa|00:34:30.1|52|13-May-1970
+1|955|Navarrete Torres|Alejandro|anv Coyoacan|00:18:15.6|58|31-Oct-1964
+2|950|Moreno Rodriguez|Gustavo|anv Z. Esmeralda|00:18:53.3|55|22-Mar-1967
+3|952|Valles Valdes|Mario|anv Interlomas|00:19:32.8|56|09-Sep-1966
+4|957|Reynoso Rosales|Victor Hugo|anv San Jeronimo|00:24:42.3|58|19-Sep-1964
+5|956|Rabell Ojeda|Iván|anv Coyoacan|00:26:15.8|58|13-Sep-1964
+6|953|Membrillo Romero|Alejandro|anv Coapa|00:32:12.0|57|18-Mar-1965
+7|949|Cancino Rodriguez|Sergio|anv Interlomas|00:46:33.0|55|27-Apr-1967
+1|964|Carramiñana Alonso|Alberto|anv Puebla|00:17:03.0|61|08-May-1961
+2|968|Treviño Muguerza|Adrian|anv Interlomas|00:18:54.8|63|11-Aug-1959
+3|967|Silva Luna|Javier|anv Satelite|00:26:46.0|62|13-Jul-1960
+5|962|Noyola Pineda|Carlos Alejandro|anv Puebla|00:32:06.0|60|14-Nov-1962
+7|963|Ponce Aguilar|Manuel|Club de Golf Bellavista|00:33:29.0|60|27-Oct-1962
+8|966|García Fuentes|José Concepción|anv Z. Esmeralda|00:35:19.0|62|08-Dec-1960
+9|959|Aviles Barroso|Raul Alberto|anv Las Arboledas|00:35:41.0|60|08-Oct-1962
+10|961|Cisneros Rocha|Jose Dolores|anv Coapa|00:42:29.0|60|09-Apr-1962
+1|970|Luque Agraz|Francisco|anv Interlomas|00:25:05.6|69|02-Jan-1954
+2|969|Garcia Martinez|Marcos Rafael|anv San Jeronimo|00:28:21.8|65|07-Jul-1957
