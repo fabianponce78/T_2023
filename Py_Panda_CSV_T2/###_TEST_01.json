@@ -1,0 +1,602 @@
+[
+    {
+        "Pais": "China",
+        "Produccion": 698,
+        "Product": "Arroz",
+        "Year": 2014
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 168,
+        "Product": "Oro",
+        "Year": 2019
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 670,
+        "Product": "Platano",
+        "Year": 2000
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 323,
+        "Product": "Platano",
+        "Year": 2019
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 247,
+        "Product": "Oro",
+        "Year": 2018
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 258,
+        "Product": "Papel",
+        "Year": 2008
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 756,
+        "Product": "Oro",
+        "Year": 2001
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 789,
+        "Product": "Platano",
+        "Year": 2016
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 879,
+        "Product": "Arroz",
+        "Year": 2003
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 853,
+        "Product": "Arroz",
+        "Year": 2016
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 323,
+        "Product": "Zanahoria",
+        "Year": 2005
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 625,
+        "Product": "Oro",
+        "Year": 2002
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 757,
+        "Product": "Zanahoria",
+        "Year": 2007
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 345,
+        "Product": "Oro",
+        "Year": 2014
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 168,
+        "Product": "Plata",
+        "Year": 2010
+    },
+    {
+        "Pais": "China",
+        "Produccion": 432,
+        "Product": "Arroz",
+        "Year": 2012
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 478,
+        "Product": "Papel",
+        "Year": 2004
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 807,
+        "Product": "Zanahoria",
+        "Year": 2020
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 758,
+        "Product": "Papel",
+        "Year": 2004
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 576,
+        "Product": "Papel",
+        "Year": 2002
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 930,
+        "Product": "Oro",
+        "Year": 2009
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 535,
+        "Product": "Arroz",
+        "Year": 2001
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 719,
+        "Product": "Platano",
+        "Year": 2010
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 869,
+        "Product": "Plata",
+        "Year": 2017
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 131,
+        "Product": "Platano",
+        "Year": 2012
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 328,
+        "Product": "Arroz",
+        "Year": 2008
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 284,
+        "Product": "Plata",
+        "Year": 2016
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 833,
+        "Product": "Oro",
+        "Year": 2004
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 112,
+        "Product": "Platano",
+        "Year": 2005
+    },
+    {
+        "Pais": "China",
+        "Produccion": 818,
+        "Product": "Platano",
+        "Year": 2014
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 844,
+        "Product": "Plata",
+        "Year": 2020
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 386,
+        "Product": "Papel",
+        "Year": 2011
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 691,
+        "Product": "Zanahoria",
+        "Year": 2007
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 268,
+        "Product": "Papel",
+        "Year": 2006
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 696,
+        "Product": "Oro",
+        "Year": 2009
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 922,
+        "Product": "Oro",
+        "Year": 2000
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 863,
+        "Product": "Arroz",
+        "Year": 2010
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 986,
+        "Product": "Zanahoria",
+        "Year": 2020
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 119,
+        "Product": "Oro",
+        "Year": 2007
+    },
+    {
+        "Pais": "China",
+        "Produccion": 991,
+        "Product": "Zanahoria",
+        "Year": 2004
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 915,
+        "Product": "Zanahoria",
+        "Year": 2020
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 442,
+        "Product": "Arroz",
+        "Year": 2014
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 194,
+        "Product": "Papel",
+        "Year": 2011
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 636,
+        "Product": "Arroz",
+        "Year": 2008
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 343,
+        "Product": "Zanahoria",
+        "Year": 2015
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 771,
+        "Product": "Platano",
+        "Year": 2009
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 552,
+        "Product": "Zanahoria",
+        "Year": 2003
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 411,
+        "Product": "Plata",
+        "Year": 2012
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 245,
+        "Product": "Papel",
+        "Year": 2012
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 182,
+        "Product": "Zanahoria",
+        "Year": 2016
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 532,
+        "Product": "Arroz",
+        "Year": 2013
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 933,
+        "Product": "Zanahoria",
+        "Year": 2008
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 684,
+        "Product": "Papel",
+        "Year": 2008
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 557,
+        "Product": "Arroz",
+        "Year": 2010
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 469,
+        "Product": "Papel",
+        "Year": 2010
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 714,
+        "Product": "Oro",
+        "Year": 2012
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 600,
+        "Product": "Arroz",
+        "Year": 2009
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 293,
+        "Product": "Plata",
+        "Year": 2020
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 423,
+        "Product": "Platano",
+        "Year": 2013
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 515,
+        "Product": "Platano",
+        "Year": 2004
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 551,
+        "Product": "Platano",
+        "Year": 2012
+    },
+    {
+        "Pais": "China",
+        "Produccion": 175,
+        "Product": "Papel",
+        "Year": 2011
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 507,
+        "Product": "Platano",
+        "Year": 2008
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 707,
+        "Product": "Plata",
+        "Year": 2004
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 934,
+        "Product": "Platano",
+        "Year": 2018
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 475,
+        "Product": "Plata",
+        "Year": 2018
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 588,
+        "Product": "Zanahoria",
+        "Year": 2006
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 364,
+        "Product": "Papel",
+        "Year": 2019
+    },
+    {
+        "Pais": "China",
+        "Produccion": 195,
+        "Product": "Platano",
+        "Year": 2009
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 942,
+        "Product": "Zanahoria",
+        "Year": 2016
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 383,
+        "Product": "Papel",
+        "Year": 2002
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 789,
+        "Product": "Oro",
+        "Year": 2006
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 244,
+        "Product": "Arroz",
+        "Year": 2016
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 958,
+        "Product": "Platano",
+        "Year": 2016
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 707,
+        "Product": "Plata",
+        "Year": 2009
+    },
+    {
+        "Pais": "China",
+        "Produccion": 509,
+        "Product": "Zanahoria",
+        "Year": 2005
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 864,
+        "Product": "Oro",
+        "Year": 2006
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 185,
+        "Product": "Arroz",
+        "Year": 2006
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 789,
+        "Product": "Oro",
+        "Year": 2013
+    },
+    {
+        "Pais": "EEUU",
+        "Produccion": 633,
+        "Product": "Oro",
+        "Year": 2014
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 531,
+        "Product": "Arroz",
+        "Year": 2004
+    },
+    {
+        "Pais": "China",
+        "Produccion": 137,
+        "Product": "Arroz",
+        "Year": 2009
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 400,
+        "Product": "Arroz",
+        "Year": 2001
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 346,
+        "Product": "Platano",
+        "Year": 2019
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 873,
+        "Product": "Oro",
+        "Year": 2016
+    },
+    {
+        "Pais": "China",
+        "Produccion": 430,
+        "Product": "Platano",
+        "Year": 2008
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 519,
+        "Product": "Papel",
+        "Year": 2008
+    },
+    {
+        "Pais": "Francia",
+        "Produccion": 767,
+        "Product": "Arroz",
+        "Year": 2018
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 342,
+        "Product": "Plata",
+        "Year": 2003
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 926,
+        "Product": "Papel",
+        "Year": 2016
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 833,
+        "Product": "Zanahoria",
+        "Year": 2006
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 240,
+        "Product": "Papel",
+        "Year": 2016
+    },
+    {
+        "Pais": "Canada",
+        "Produccion": 723,
+        "Product": "Oro",
+        "Year": 2011
+    },
+    {
+        "Pais": "China",
+        "Produccion": 689,
+        "Product": "Zanahoria",
+        "Year": 2001
+    },
+    {
+        "Pais": "China",
+        "Produccion": 307,
+        "Product": "Oro",
+        "Year": 2008
+    },
+    {
+        "Pais": "China",
+        "Produccion": 837,
+        "Product": "Oro",
+        "Year": 2000
+    },
+    {
+        "Pais": "China",
+        "Produccion": 862,
+        "Product": "Platano",
+        "Year": 2001
+    },
+    {
+        "Pais": "China",
+        "Produccion": 313,
+        "Product": "Arroz",
+        "Year": 2018
+    },
+    {
+        "Pais": "Mexico",
+        "Produccion": 855,
+        "Product": "Zanahoria",
+        "Year": 2020
+    },
+    {
+        "Pais": "Australia",
+        "Produccion": 682,
+        "Product": "Oro",
+        "Year": 2010
+    }
+]

@@ -1,0 +1,43 @@
+,[Country],[Code],[Region],[Sub-Region],[Lat],[Long],[NEW_COLUMN],[Lat+Long]
+19,Barbados,BRB,Americas,Latin America and the Caribbean,25.025885,-78.035889,666,-53.010003999999995
+22,Belize,BLZ,Americas,Latin America and the Caribbean,13.1939,-59.5432,666,-46.3493
+24,Bermuda,BMU,Americas,Northern America,50.8333,4.469936,666,55.303236
+26,Bolivia,BOL,Americas,Latin America and the Caribbean,9.3077,2.3158,666,11.6235
+27,"Bonaire, Sint Eustatius and Saba",BES,Americas,Latin America and the Caribbean,27.5142,90.4336,666,117.9478
+40,Canada,CAN,Americas,Northern America,53.9333,-116.5765,666,-62.64319999999999
+41,Cayman Islands,CYM,Americas,Latin America and the Caribbean,53.7267,-127.6476,666,-73.92089999999999
+44,Chile,CHL,Americas,Latin America and the Caribbean,53.7609,-98.8139,666,-45.053000000000004
+48,Colombia,COL,Americas,Latin America and the Caribbean,44.682,-63.7443,666,-19.0623
+56,Cuba,CUB,Americas,Latin America and the Caribbean,6.6111,20.9394,666,27.5505
+57,Curaçao,CUW,Americas,Latin America and the Caribbean,15.4542,18.7322,666,34.1864
+62,Dominica,DMA,Americas,Latin America and the Caribbean,26.0789,117.9874,666,144.06629999999998
+63,Dominican Republic,DOM,Americas,Latin America and the Caribbean,35.7518,104.2861,666,140.0379
+64,Ecuador,ECU,Americas,Latin America and the Caribbean,23.3417,113.4244,666,136.7661
+66,El Salvador,SLV,Americas,Latin America and the Caribbean,26.8154,106.8748,666,133.6902
+72,Falkland Islands (Malvinas),FLK,Americas,Latin America and the Caribbean,30.9756,112.2707,666,143.24630000000002
+77,French Guiana,GUF,Americas,Latin America and the Caribbean,43.6661,126.1923,666,169.85840000000002
+87,Greenland,GRL,Americas,Northern America,39.3054,117.323,666,156.6284
+88,Grenada,GRD,Americas,Latin America and the Caribbean,31.6927,88.0924,666,119.7851
+91,Guatemala,GTM,Americas,Latin America and the Caribbean,24.974,101.487,666,126.461
+99,Honduras,HND,Americas,Latin America and the Caribbean,45.1,15.2,666,60.3
+111,Jamaica,JAM,Americas,Latin America and the Caribbean,26.820553,30.802498,666,57.623051000000004
+139,Martinique,MTQ,Americas,Latin America and the Caribbean,15.7835,-90.2308,666,-74.4473
+143,Mexico,MEX,Americas,Latin America and the Caribbean,18.9712,-72.2852,666,-53.31400000000001
+171,Panama,PAN,Americas,Latin America and the Caribbean,26.3351,17.228331,666,43.563431
+173,Paraguay,PRY,Americas,Latin America and the Caribbean,55.1694,23.8813,666,79.0507
+174,Peru,PER,Americas,Latin America and the Caribbean,49.8153,6.1296,666,55.944900000000004
+179,Puerto Rico,PRI,Americas,Latin America and the Caribbean,3.2028,73.2207,666,76.42349999999999
+185,Saint Barthélemy,BLM,Americas,Latin America and the Caribbean,23.6345,-102.5528,666,-78.9183
+187,Saint Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,47.4116,28.3699,666,75.7815
+188,Saint Lucia,LCA,Americas,Latin America and the Caribbean,43.7333,7.4167,666,51.15
+189,Saint Martin (French part),MAF,Americas,Latin America and the Caribbean,46.8625,103.8467,666,150.7092
+190,Saint Pierre and Miquelon,SPM,Americas,Northern America,42.708678,19.37439,666,62.083068
+191,Saint Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,31.7917,-7.0926,666,24.699099999999998
+207,South Georgia and the South Sandwich Islands,SGS,Americas,Latin America and the Caribbean,41.6086,21.7453,666,63.3539
+212,Suriname,SUR,Americas,Latin America and the Caribbean,8.538,-80.7821,666,-72.2441
+225,Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,12.9843,-61.2872,666,-48.3029
+229,Turks and Caicos Islands,TCA,Americas,Latin America and the Caribbean,23.885942,45.079162,666,68.965104
+235,United States,USA,Americas,Northern America,48.669,19.699,666,68.368
+240,Venezuela,VEN,Americas,Latin America and the Caribbean,6.877,31.307,666,38.184
+242,Virgin Islands (British),VGB,Americas,Latin America and the Caribbean,7.873054,80.771797,666,88.644851
+243,Virgin Islands (U.S.),VIR,Americas,Latin America and the Caribbean,12.8628,30.2176,666,43.0804
