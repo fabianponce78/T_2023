@@ -1,0 +1,7 @@
+BP_APEX_TEST
+M4fGlgzFLmgLjadzuGoh48D9
+
+
+
+--------------------------
+https://developer.atlassian.com/cloud/jira/software/rest/api-group-issue/#api-rest-agile-1-0-issue-issueidorkey-get
