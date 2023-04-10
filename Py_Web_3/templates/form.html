@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% extends "layout.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block content %}
+
+<h1>Form xxxx</h1>
+<p>{{ names }}</p>
+<p><small>{{ dt_Now }}</small></p>
+<p>{{ lst_Form }}</p>
+<br/><br/>
+<ul>
+{% for i in lst_Form %}
+    <li>{{ i }}</li>
+{% endfor %}
+</ul>
+
+{% endblock%}

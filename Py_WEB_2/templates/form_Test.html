@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<from action="/form_B" method="POST">
+<div class="form-group">
+  <span class="input-group-text" id="basic-addon_01">Last Name</span>
+  <input type="text" class="form-control" placeholder="Last Name" aria-label="Last Name" aria-describedby="basic-addon_01">
+
+  <span class="input-group-text" id="basic-addon_02">Name</span>
+  <input type="text" class="form-control" placeholder="Name" aria-label="Name" aria-describedby="basic-addon_02">
+</div>
+
+<div class="form-group">
+  <span class="input-group-text" id="basic-addon_03">Phone</span>
+  <input type="text" class="form-control" placeholder="() ###-####" aria-label="Phone" aria-describedby="basic-addon_03">
+
+  <span class="input-group-text" id="basic-addon_04">email</span>
+  <input type="text" class="form-control" placeholder="email" aria-label="email" aria-describedby="basic-addon_04">
+</div>
+
+<div class="form-group">
+  <span class="input-group-text" id="basic-addon_05">Date First Contact</span>
+  <input type="text" class="form-control" placeholder="yyyy/mm/dd" aria-label="Date First Contact" aria-describedby="basic-addon_05">
+
+  <span class="input-group-text" id="basic-addon_06">First Contact Type</span>
+    <select class="form-select" id="floatingSelect" aria-label="First Contact Type" aria-describedby="basic-addon_06">
+      <option selected>-- menu --</option>
+      <option value="Web Form">Web Form</option>
+      <option value="Call - Billboard">Call - Billboard</option>
+      <option value="Call - Click to call">Call - Click to call</option>
+      <option value="Call - Website">Call - Website </option>
+    </select>
+    <!--<label for="floatingSelect">Works with selects</label>-->
+    <span class="input-group-text" id="basic-addon_07">Stage</span>
+    <select class="form-select" id="floatingSelect" aria-label="Stage" aria-describedby="basic-addon_07">
+      <option selected>-- menu --</option>
+      <option value="01 - First contact - No response">01 - First contact - No response</option>
+      <option value="02 - First Contact - Profile Filled">02 - First Contact - Profile Filled</option>
+      <option value="03 - New Patient Appointment">03 - New Patient Appointment</option>
+      <option value="03.5 - Pending Testing">03.5 - Pending Testing</option>
+      <option value="04 - Financing">04 - Financing</option>
+      <option value="05 - Treatment">05 - Treatment</option>
+      <option value="06 - TBNT">06 - TBNT</option>
+      <option value="07- 1 on 1">07- 1 on 1</option>
+    </select>    
+</div>
+
+
+<div class="form-group">
+  <span class="input-group-text" id="basic-addon_08">Date last Follow-up</span>
+  <input type="text" class="form-control" placeholder="yyyy/mm/dd" aria-label="Date last Follow-up" aria-describedby="basic-addon_08">
+
+  <span class="input-group-text" id="basic-addon_09">Follow up Type</span>
+  <input type="text" class="form-control" placeholder="Follow up Type" aria-label="Follow up Type" aria-describedby="basic-addon_09">   
+</div>
+
+
+
+<div class="form-group">
+  <span class="input-group-text">Comments</span>
+  <textarea class="form-control" aria-label="Comments"></textarea>
+</div>
+
+
+<div class="form-group">
+  <span class="input-group-text" id="basic-addon_09">AD Type</span>
+    <select class="form-select" id="floatingSelect" aria-label="AD Type" aria-describedby="basic-addon_09">
+      <option selected>-- menu --</option>
+      <option value="01 - Ad: 0">01 - Ad: 0</option>
+      <option value="02 - Ad: 1">02 - Ad: 1</option>
+      <option value="03 - Ad: 2">03 - Ad: 2</option>
+      <option value="04 - Ad: 3">04 - Ad: 3</option>
+    </select> 
+</div>
+
+<button type="submit" class="btn btn-secondary">Submit</button>
+
+</from>
+{% endblock%}
