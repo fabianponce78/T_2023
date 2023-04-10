@@ -1,0 +1,20 @@
+Date|SPRINT|ParentStory
+2021-06-21|01 - DBAAS-5814|DBAAS-5814
+2021-07-27|02 - Research Capabilities|DBAAS-5814
+2021-08-06|03 - 1rst. Iteration|DBAAS-5814
+2021-08-13|04 - 2nd. Iteration|DBAAS-5814
+2021-09-17|05 - Phase 1|DBAAS-5814
+2021-10-01|06 - Phase 2|DBAAS-5814
+2021-11-19|07 - 3rd. Iteration|DBAAS-5814
+2021-12-08|08 - RLS|DBAAS-5814
+2021-12-14|09 - Test|DBAAS-5814
+2022-01-24|10 - Close Sprint|DBAAS-5814
+2022-01-31|11 - Walkthrough App|DBAAS-5814
+2022-01-24|01 - Recoverability Collection Next Steps|DBAAS-4462
+2021-12-13|02 - Recoverability Collection data model|DBAAS-4462
+2021-12-06|03 - Recoverability Data Model|DBAAS-4462
+2021-11-23|04 - Recoverability Data Collection|DBAAS-4462
+2022-01-24|Database System Analysis Data Collection Scripts|DBAAS-7946
+2022-01-19|JML|DBAAS-7839
+2022-02-15|JML Plan Review|DBAAS-7839
+2022-02-15|Demo - Application for DB UAR Account Attestation|DBAAS-5814
