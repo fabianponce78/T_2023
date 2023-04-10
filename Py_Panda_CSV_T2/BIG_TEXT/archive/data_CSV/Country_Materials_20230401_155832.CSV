@@ -1,0 +1,501 @@
+Continent,Country,Product,Date,Materials,Product,Volume
+Asia,Iran (Islamic Republic of),Palm oil,2000/08/08,Lst_METALS,GASES,66.05
+Oceania,Palau,Jerseys,2009/11/06,Lst_BUILDING_MATERIALS,concrete,62.88
+Asia,Cyprus,Palm oil,2011/09/21,Lst_FABRICS,cotton,62.04
+Americas,Turks and Caicos Islands,magnesium ,2008/12/23,Lst_BUILDING_MATERIALS,plastic,39.02
+Americas,Panama,Coffee,2003/06/11,Lst_METALS,lead,62.19
+Asia,Yemen,Alcohol  ,2012/03/27,Lst_FABRICS,man-made fibres,87.38
+Americas,Sint Maarten (Dutch part),Antibiotics ,2008/12/02,Lst_METALS,nickel,59.08
+Americas,Bahamas,Sugar ,2009/10/30,Lst_FABRICS,nylon,62.81
+Asia,Timor-Leste,iron,2021/05/19,Lst_BUILDING_MATERIALS,brick,32.61
+Oceania,Palau,bronze  ,2011/09/10,Lst_OTHER_MATERIALS,mud,91.77
+Africa,Sudan,Caps,2005/01/04,Lst_BUILDING_MATERIALS,plastic,77.26
+Europe,Estonia,copper,2007/12/29,Lst_OTHER_MATERIALS,steam,41.61
+Europe,Greece,Corn,2013/08/05,Lst_BUILDING_MATERIALS,stone,38.26
+Asia,Armenia,bronze  ,2019/11/26,Lst_OTHER_MATERIALS,OTHER MATERIALS,70.32
+Africa,Nigeria,Provitamins,2014/07/08,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,54.73
+Asia,Timor-Leste,Diamonds,2015/12/01,Lst_BUILDING_MATERIALS,marble,93.17
+Europe,San Marino,Chocolate,2021/09/09,Lst_METALS,nitrogen,44.64
+Oceania,Papua New Guinea,pullovers ,2006/10/07,Lst_OTHER_MATERIALS,ice,84.1
+Americas,Martinique,Bananas,2014/10/09,Lst_OTHER_MATERIALS,paraffin,71.84
+Europe,Svalbard and Jan Mayen,mercury,2006/12/13,Lst_FABRICS,cotton,98.06
+Asia,Israel,Palm oil,2002/06/25,Lst_FABRICS,man-made fibres,86.42
+Americas,Anguilla,Antibiotics ,2019/12/02,Lst_BUILDING_MATERIALS,metal,81.7
+Americas,Barbados,Jerseys,2009/09/18,Lst_METALS,zinc,63.57
+Europe,Ã…land Islands,Jewelry,2005/04/19,Lst_FABRICS,nylon,38.69
+Americas,Virgin Islands (British),Provitamins,2016/02/22,Lst_FABRICS,man-made fibres,90.22
+Asia,Mongolia,pullovers ,2017/03/22,Lst_BUILDING_MATERIALS,metal,93.72
+Oceania,Micronesia (Federated States of),Rice,2004/07/19,Lst_OTHER_MATERIALS,petrol,72.88
+Oceania,Nauru,Provitamins,2008/01/10,Lst_METALS,oxygen,81.68
+Africa,Senegal,Corn,2010/08/13,Lst_OTHER_MATERIALS,soil,61.14
+Oceania,Tuvalu,pullovers ,2016/08/29,Lst_FABRICS,FABRICS,37.12
+Europe,Gibraltar,fish,2016/07/26,Lst_BUILDING_MATERIALS,slate,49.04
+Oceania,American Samoa,fish,2018/01/31,Lst_FABRICS,linen,68.57
+Europe,Moldova (Republic of),iron,2013/05/16,Lst_FABRICS,nylon,86.17
+Asia,Lao People s Democratic Republic,seeds,2010/09/23,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,53.97
+Oceania,Niue,Antibiotics ,2000/10/08,Lst_BUILDING_MATERIALS,brick,30.51
+Americas,Bahamas,Sugar ,2000/06/09,Lst_FABRICS,cloth,94.04
+Oceania,Wallis and Futuna,Coffee,2003/08/11,Lst_BUILDING_MATERIALS,marble,58.69
+Africa,Liberia,Antibiotics ,2007/05/27,Lst_OTHER_MATERIALS,mud,76.6
+Africa,Malawi,mercury,2016/11/03,Lst_BUILDING_MATERIALS,stone,47.03
+Asia,India,iron,2009/11/07,Lst_FABRICS,cotton,46.22
+Asia,United Arab Emirates,uranium,2021/12/19,Lst_METALS,oxygen,71.28
+Americas,Saint BarthÃ©lemy,Jerseys,2017/10/31,Lst_FABRICS,leather,98.19
+Oceania,Australia,Sugar ,2002/02/01,Lst_BUILDING_MATERIALS,marble,71.07
+Europe,Isle of Man,aluminium ,2005/11/09,Lst_BUILDING_MATERIALS,metal,81.98
+Americas,Venezuela (Bolivarian Republic of),Diamonds,2009/09/04,Lst_METALS,silver,56.99
+Africa,Libya,Sugar ,2006/09/17,Lst_OTHER_MATERIALS,gas,42.96
+Asia,Bangladesh,Bananas,2001/03/08,Lst_FABRICS,nylon,66.95
+Africa,Western Sahara,seeds,2018/01/26,Lst_OTHER_MATERIALS,asbestos,69.63
+Oceania,French Polynesia,Beans,2013/11/10,Lst_FABRICS,polyester,61.55
+Asia,Cambodia,Antibiotics ,2012/08/27,Lst_OTHER_MATERIALS,mud,82.8
+Asia,Macao,Silver ,2000/09/02,Lst_METALS,bronze,43.11
+Africa,Gambia,uranium,2006/03/06,Lst_OTHER_MATERIALS,clay,74.02
+Americas,Martinique,Sugar ,2001/05/25,Lst_METALS,alloy,46.9
+Asia,Qatar,T-shirts,2018/01/30,Lst_OTHER_MATERIALS,smoke,69.14
+Americas,United States of America,Corn,2014/03/10,Lst_METALS,iron,87.0
+Oceania,Samoa,aluminium ,2018/01/17,Lst_BUILDING_MATERIALS,marble,74.18
+Africa,Angola,Corn,2009/08/11,Lst_METALS,bronze,86.86
+Oceania,Tonga,Gold,2008/01/20,Lst_METALS,alloy,65.5
+Europe,Netherlands,T-shirts,2005/08/01,Lst_FABRICS,wool,48.74
+Americas,Chile,Gold,2005/09/02,Lst_BUILDING_MATERIALS,marble,34.6
+Oceania,Norfolk Island,safflower,2000/02/12,Lst_BUILDING_MATERIALS,gravel,91.74
+Africa,Guinea-Bissau,safflower,2011/07/08,Lst_FABRICS,lace,84.89
+Europe,Montenegro,uranium,2019/04/16,Lst_OTHER_MATERIALS,coal,79.7
+Asia,Turkmenistan,safflower,2014/01/13,Lst_FABRICS,FABRICS,43.4
+Europe,Belgium,aluminium ,2000/04/04,Lst_FABRICS,man-made fibres,36.24
+Oceania,New Zealand,safflower,2017/11/22,Lst_BUILDING_MATERIALS,brick,64.12
+Africa,Burkina Faso,Diamonds,2005/06/19,Lst_METALS,mercury,37.62
+Oceania,Tuvalu,Antibiotics ,2021/07/27,Lst_FABRICS,polyester,92.96
+Africa,Mozambique,Silver ,2002/12/03,Lst_BUILDING_MATERIALS,wood,87.23
+Africa,Malawi,Palm oil,2019/04/01,Lst_BUILDING_MATERIALS,slate,45.15
+Europe,Guernsey,T-shirts,2011/10/31,Lst_BUILDING_MATERIALS,plastic,51.85
+Oceania,French Polynesia,mercury,2017/02/16,Lst_OTHER_MATERIALS,paraffin,48.51
+Americas,Dominican Republic,Caps,2005/01/04,Lst_FABRICS,silk,49.04
+Oceania,Nauru,T-shirts,2015/07/09,Lst_BUILDING_MATERIALS,cement,84.09
+Asia,Kazakhstan,Provitamins,2008/01/13,Lst_FABRICS,wool,34.94
+Americas,Paraguay,mercury,2014/10/28,Lst_BUILDING_MATERIALS,cement,49.26
+Oceania,Tokelau,Diamonds,2007/11/01,Lst_OTHER_MATERIALS,chalk,44.2
+Asia,Maldives,aluminium ,2013/11/01,Lst_BUILDING_MATERIALS,cement,78.22
+Europe,Montenegro,Antibiotics ,2012/12/27,Lst_OTHER_MATERIALS,petrol,52.78
+Oceania,Tonga,bronze  ,2001/11/24,Lst_OTHER_MATERIALS,clay,72.16
+Asia,Armenia,Alcohol  ,2021/12/13,Lst_FABRICS,leather,96.71
+Asia,Lebanon,pullovers ,2015/04/11,Lst_BUILDING_MATERIALS,marble,97.33
+Asia,Sri Lanka,Coffee,2002/12/11,Lst_OTHER_MATERIALS,mud,38.22
+Africa,Equatorial Guinea,Rice,2009/01/01,Lst_FABRICS,polyester,64.79
+Africa,South Africa,Cocoa beans,2010/06/01,Lst_OTHER_MATERIALS,fibreglass,80.87
+Africa,Angola,Beans,2000/09/28,Lst_METALS,aluminium,35.53
+Africa,Gambia,bronze  ,2002/02/19,Lst_OTHER_MATERIALS,paper,86.7
+Oceania,Papua New Guinea,mercury,2017/03/02,Lst_OTHER_MATERIALS,gas,75.57
+Oceania,Tonga,magnesium ,2000/08/30,Lst_METALS,iron,41.79
+Asia,Uzbekistan,T-shirts,2001/08/18,Lst_BUILDING_MATERIALS,wood,81.4
+Asia,India,Chocolate,2003/03/26,Lst_BUILDING_MATERIALS,glass,48.62
+Oceania,Tuvalu,bronze  ,2010/06/26,Lst_METALS,platinum,88.54
+Europe,Finland,T-shirts,2008/02/18,Lst_OTHER_MATERIALS,cardboard,42.29
+Americas,United States of America,Jewelry,2017/07/21,Lst_METALS,lead,54.9
+Asia,Tajikistan,Jerseys,2015/07/10,Lst_METALS,hydrogen,74.52
+Asia,Indonesia,Bananas,2018/05/03,Lst_BUILDING_MATERIALS,gravel,75.89
+Africa,Nigeria,Coffee,2014/03/15,Lst_BUILDING_MATERIALS,metal,37.28
+Asia,Syrian Arab Republic,safflower,2007/11/18,Lst_METALS,helium,67.12
+Americas,Canada,Diamonds,2001/11/27,Lst_FABRICS,FABRICS,98.12
+Americas,Peru,safflower,2000/03/29,Lst_FABRICS,polyester,63.04
+Oceania,New Caledonia,Jerseys,2019/11/30,Lst_OTHER_MATERIALS,paraffin,63.26
+Europe,Greece,T-shirts,2001/01/02,Lst_FABRICS,leather,90.69
+Europe,Slovakia,uranium,2000/01/27,Lst_OTHER_MATERIALS,rubber,89.2
+Asia,Iran (Islamic Republic of),fish,2002/09/24,Lst_OTHER_MATERIALS,charcoal,82.75
+Europe,Jersey,Silver ,2007/02/23,Lst_METALS,oxygen,54.73
+Oceania,Niue,pullovers ,2006/08/22,Lst_FABRICS,polyester,80.11
+Oceania,Fiji,Antibiotics ,2001/10/06,Lst_METALS,tin,95.96
+Oceania,Micronesia (Federated States of),Chocolate,2006/10/15,Lst_OTHER_MATERIALS,ash,53.15
+Asia,Jordan,copper,2014/08/01,Lst_BUILDING_MATERIALS,slate,67.1
+Asia,Kyrgyzstan,pullovers ,2019/03/07,Lst_BUILDING_MATERIALS,marble,87.95
+Asia,Uzbekistan,aluminium ,2003/07/05,Lst_OTHER_MATERIALS,chalk,51.38
+Oceania,Solomon Islands,pullovers ,2000/12/15,Lst_FABRICS,wool,31.5
+Africa,Zambia,Beans,2011/10/09,Lst_BUILDING_MATERIALS,cement,78.58
+Oceania,Vanuatu,Jewelry,2016/03/13,Lst_BUILDING_MATERIALS,gravel,53.5
+Oceania,Kiribati,iron,2020/06/20,Lst_FABRICS,polyester,55.5
+Americas,Cayman Islands,Gold,2012/04/29,Lst_METALS,iron,35.33
+Europe,Slovenia,Antibiotics ,2014/10/01,Lst_OTHER_MATERIALS,ash,41.77
+Oceania,Niue,aluminium ,2006/10/03,Lst_OTHER_MATERIALS,smoke,81.1
+Africa,Djibouti,Coffee,2020/04/04,Lst_BUILDING_MATERIALS,gravel,98.87
+Americas,Falkland Islands (Malvinas),Palm oil,2018/06/18,Lst_BUILDING_MATERIALS,wood,82.23
+Africa,Niger,Jewelry,2018/06/19,Lst_OTHER_MATERIALS,mud,67.14
+Africa,Gabon,Bananas,2000/11/01,Lst_FABRICS,linen,98.28
+Asia,Oman,aluminium ,2021/06/18,Lst_METALS,aluminium,63.05
+Oceania,New Caledonia,seeds,2018/03/01,Lst_METALS,hydrogen,73.8
+Americas,"Bonaire, Sint Eustatius and Saba",magnesium ,2002/04/27,Lst_METALS,uranium,51.53
+Africa,Kenya,Caps,2005/03/17,Lst_BUILDING_MATERIALS,glass,76.92
+Americas,Belize,Palm oil,2014/06/16,Lst_FABRICS,nylon,61.52
+Africa,Cabo Verde,Jewelry,2013/01/23,Lst_FABRICS,polyester,42.17
+Asia,Nepal,copper,2012/09/12,Lst_METALS,steel,82.08
+Americas,Sint Maarten (Dutch part),copper,2020/02/28,Lst_METALS,tin,81.25
+Europe,Netherlands,iron,2013/12/09,Lst_OTHER_MATERIALS,OTHER MATERIALS,52.42
+Oceania,Marshall Islands,Meat,2012/05/10,Lst_METALS,GASES,30.4
+Americas,Belize,T-shirts,2010/08/01,Lst_METALS,magnesium,54.57
+Americas,Uruguay,Silver ,2010/09/07,Lst_METALS,silver,86.92
+Africa,Gabon,seeds,2016/06/13,Lst_METALS,mercury,51.98
+Oceania,Marshall Islands,Alcohol  ,2001/12/24,Lst_FABRICS,nylon,94.05
+Africa,Eritrea,copper,2018/03/21,Lst_FABRICS,man-made fibres,30.57
+Americas,Chile,bronze  ,2005/02/04,Lst_BUILDING_MATERIALS,glass,75.5
+Africa,South Sudan,Antibiotics ,2003/03/13,Lst_METALS,helium,39.76
+Americas,Martinique,Provitamins,2012/03/26,Lst_METALS,magnesium,53.45
+Africa,Egypt,Cocoa beans,2018/01/05,Lst_OTHER_MATERIALS,charcoal,59.61
+Europe,Guernsey,fish,2005/01/24,Lst_BUILDING_MATERIALS,stone,68.34
+Asia,Pakistan,pullovers ,2021/09/05,Lst_FABRICS,silk,75.19
+Oceania,Tonga,Diamonds,2015/12/23,Lst_METALS,mercury,35.24
+Africa,Sierra Leone,Beans,2009/09/01,Lst_BUILDING_MATERIALS,cement,57.01
+Asia,Viet Nam,Meat,2015/08/21,Lst_OTHER_MATERIALS,smoke,79.91
+Oceania,Samoa,bronze  ,2015/03/09,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,99.28
+Asia,Nepal,pullovers ,2000/07/23,Lst_METALS,alloy,91.46
+Americas,Saint Lucia,Antibiotics ,2021/06/04,Lst_METALS,mercury,88.09
+Oceania,Australia,Bananas,2018/03/27,Lst_FABRICS,man-made fibres,31.45
+Asia,Turkmenistan,Cocoa beans,2010/11/05,Lst_METALS,steel,82.46
+Oceania,Cook Islands,Corn,2010/04/02,Lst_METALS,nitrogen,73.09
+Americas,Guyana,Diamonds,2003/11/08,Lst_METALS,METALS,70.43
+Africa,Cabo Verde,seeds,2005/11/19,Lst_BUILDING_MATERIALS,glass,50.75
+Americas,Brazil,Alcohol  ,2021/06/06,Lst_BUILDING_MATERIALS,marble,83.0
+Africa,Zambia,fish,2017/06/16,Lst_BUILDING_MATERIALS,slate,76.82
+Africa,Kenya,copper,2004/03/09,Lst_OTHER_MATERIALS,chalk,91.5
+Africa,Congo (Democratic Republic of the),fish,2019/02/08,Lst_METALS,uranium,62.98
+Americas,Grenada,Bananas,2004/08/12,Lst_OTHER_MATERIALS,rubber,94.99
+Oceania,Papua New Guinea,Alcohol  ,2001/12/27,Lst_BUILDING_MATERIALS,sand,76.0
+Oceania,Tuvalu,Coffee,2016/09/10,Lst_METALS,oxygen,63.5
+Asia,Pakistan,Corn,2013/07/22,Lst_OTHER_MATERIALS,chalk,31.4
+Africa,Djibouti,bronze  ,2021/12/26,Lst_BUILDING_MATERIALS,brick,53.0
+Asia,Armenia,iron,2010/03/04,Lst_METALS,brass,97.07
+Americas,Saint Martin (French part),bronze  ,2021/05/06,Lst_OTHER_MATERIALS,coal,90.71
+Asia,Korea (Democratic Peoples Republic of),Sugar ,2007/12/27,Lst_OTHER_MATERIALS,paper,51.53
+Americas,Saint BarthÃ©lemy,Jerseys,2021/01/28,Lst_FABRICS,lace,70.72
+Americas,Argentina,uranium,2001/02/27,Lst_METALS,copper,48.26
+Asia,India,Corn,2001/02/01,Lst_OTHER_MATERIALS,ice,57.24
+Oceania,Guam,Cocoa beans,2005/10/03,Lst_METALS,tin,59.71
+Oceania,French Polynesia,safflower,2021/09/15,Lst_OTHER_MATERIALS,water,66.96
+Africa,Mauritius,Beans,2009/11/16,Lst_OTHER_MATERIALS,fibreglass,80.39
+Europe,Bosnia and Herzegovina,Caps,2002/06/15,Lst_OTHER_MATERIALS,petrol,84.8
+Asia,Jordan,Gold,2013/09/14,Lst_OTHER_MATERIALS,smoke,51.89
+Asia,Myanmar,Antibiotics ,2008/03/13,Lst_METALS,GASES,35.39
+Africa,Burkina Faso,Corn,2005/06/15,Lst_METALS,tin,68.42
+Europe,Holy See,Beans,2020/06/18,Lst_OTHER_MATERIALS,soil,52.43
+Asia,Georgia,Diamonds,2013/03/23,Lst_METALS,brass,51.83
+Americas,Peru,T-shirts,2014/04/04,Lst_METALS,magnesium,55.88
+Europe,Montenegro,Jerseys,2015/06/18,Lst_FABRICS,wool,64.62
+Asia,Thailand,Gold,2015/09/15,Lst_OTHER_MATERIALS,ash,61.98
+Europe,Czech Republic,Silver ,2019/09/25,Lst_FABRICS,silk,68.55
+Africa,Gambia,T-shirts,2019/10/02,Lst_BUILDING_MATERIALS,metal,66.7
+Asia,Bahrain,Beans,2003/02/16,Lst_METALS,uranium,85.04
+Africa,Benin,Gold,2011/11/12,Lst_METALS,brass,97.86
+Africa,Mauritania,bronze  ,2021/10/22,Lst_METALS,tin,60.39
+Oceania,Micronesia (Federated States of),seeds,2007/02/14,Lst_BUILDING_MATERIALS,concrete,31.72
+Asia,Korea (Republic of),Jerseys,2018/01/20,Lst_OTHER_MATERIALS,mud,46.73
+Europe,Andorra,Coffee,2019/09/30,Lst_OTHER_MATERIALS,mud,34.29
+Americas,Haiti,Coffee,2015/09/09,Lst_BUILDING_MATERIALS,marble,78.25
+Oceania,Pitcairn,uranium,2011/12/24,Lst_BUILDING_MATERIALS,brick,55.33
+Americas,Anguilla,Cocoa beans,2001/02/18,Lst_FABRICS,cloth,67.17
+Africa,CÃ´te d Ivoire,copper,2006/07/25,Lst_METALS,oxygen,30.63
+Asia,Bangladesh,Beans,2013/01/14,Lst_METALS,carbon dioxide,66.56
+Asia,Tajikistan,Chocolate,2000/12/12,Lst_OTHER_MATERIALS,fibreglass,91.33
+Asia,"Taiwan, Province of China",uranium,2018/10/03,Lst_METALS,nickel,96.4
+Asia,"Palestine, State of",Corn,2012/05/04,Lst_OTHER_MATERIALS,fibreglass,60.04
+Asia,Turkey,Silver ,2013/09/21,Lst_BUILDING_MATERIALS,concrete,53.42
+Oceania,Solomon Islands,Cocoa beans,2020/05/29,Lst_METALS,carbon dioxide,39.04
+Oceania,Papua New Guinea,fish,2020/09/27,Lst_BUILDING_MATERIALS,metal,97.24
+Oceania,Tokelau,Meat,2013/03/13,Lst_OTHER_MATERIALS,chalk,92.18
+Europe,Hungary,Antibiotics ,2002/12/20,Lst_METALS,oxygen,56.93
+Oceania,Niue,bronze  ,2011/09/24,Lst_BUILDING_MATERIALS,stone,75.21
+Europe,Slovenia,Gold,2001/04/30,Lst_OTHER_MATERIALS,ash,95.94
+Africa,Sierra Leone,Diamonds,2013/12/04,Lst_BUILDING_MATERIALS,wood,60.75
+Asia,Malaysia,Corn,2008/12/04,Lst_OTHER_MATERIALS,paraffin,35.52
+Oceania,Australia,mercury,2010/10/05,Lst_METALS,nitrogen,66.84
+Oceania,Kiribati,Cocoa beans,2012/10/27,Lst_FABRICS,FABRICS,63.25
+Europe,Spain,Antibiotics ,2009/04/20,Lst_BUILDING_MATERIALS,stone,85.43
+Asia,Oman,Jerseys,2015/07/21,Lst_METALS,tin,60.93
+Oceania,Cook Islands,Cocoa beans,2002/12/21,Lst_FABRICS,leather,54.87
+Americas,Anguilla,safflower,2011/05/11,Lst_BUILDING_MATERIALS,stone,85.21
+Europe,Isle of Man,Coffee,2009/07/21,Lst_BUILDING_MATERIALS,concrete,55.81
+Europe,Liechtenstein,uranium,2020/05/15,Lst_BUILDING_MATERIALS,brick,96.48
+Asia,Kuwait,Bananas,2012/12/10,Lst_METALS,alloy,80.27
+Oceania,Tuvalu,Sugar ,2004/07/16,Lst_METALS,METALS,30.49
+Oceania,Pitcairn,pullovers ,2019/08/07,Lst_METALS,carbon dioxide,81.83
+Asia,Lao People s Democratic Republic,bronze  ,2016/03/03,Lst_OTHER_MATERIALS,asbestos,73.3
+Asia,Timor-Leste,pullovers ,2021/01/16,Lst_METALS,gold,96.55
+Americas,Brazil,mercury,2011/01/24,Lst_METALS,uranium,54.48
+Europe,Romania,Palm oil,2003/04/01,Lst_BUILDING_MATERIALS,stone,33.22
+Oceania,Pitcairn,Palm oil,2017/04/01,Lst_FABRICS,cotton,77.64
+Asia,Sri Lanka,Sugar ,2008/08/21,Lst_FABRICS,nylon,61.68
+Asia,Timor-Leste,Rice,2001/09/08,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,74.98
+Europe,Liechtenstein,Caps,2015/01/02,Lst_BUILDING_MATERIALS,slate,74.15
+Europe,Montenegro,Coffee,2004/05/23,Lst_BUILDING_MATERIALS,metal,81.72
+Africa,Seychelles,Silver ,2005/03/18,Lst_METALS,brass,35.74
+Europe,Switzerland,safflower,2018/02/16,Lst_METALS,oxygen,97.73
+Asia,Myanmar,fish,2003/03/11,Lst_OTHER_MATERIALS,soil,48.06
+Asia,Myanmar,Jewelry,2003/01/20,Lst_BUILDING_MATERIALS,gravel,91.62
+Europe,Jersey,Antibiotics ,2013/07/09,Lst_FABRICS,FABRICS,44.37
+Africa,Zambia,Beans,2006/02/06,Lst_FABRICS,cotton,35.52
+Europe,Romania,fish,2013/02/02,Lst_METALS,silver,84.81
+Americas,Saint Vincent and the Grenadines,Antibiotics ,2019/03/11,Lst_METALS,uranium,37.28
+Americas,Saint Martin (French part),Corn,2016/01/12,Lst_OTHER_MATERIALS,coal,64.22
+Asia,Hong Kong,Chocolate,2000/01/16,Lst_FABRICS,wool,35.24
+Africa,Seychelles,Palm oil,2007/07/21,Lst_OTHER_MATERIALS,smoke,99.22
+Africa,Chad,iron,2019/09/30,Lst_OTHER_MATERIALS,paper,85.31
+Europe,United Kingdom of Great Britain and Northern Ireland,Meat,2009/09/11,Lst_METALS,lead,49.68
+Oceania,Northern Mariana Islands,bronze  ,2010/06/27,Lst_METALS,steel,30.54
+Europe,Gibraltar,Beans,2018/04/18,Lst_OTHER_MATERIALS,fibreglass,74.81
+Europe,Croatia,Rice,2015/02/14,Lst_METALS,oxygen,77.17
+Americas,Puerto Rico,mercury,2004/06/01,Lst_METALS,aluminium,72.71
+Asia,Qatar,Antibiotics ,2003/09/29,Lst_METALS,brass,33.0
+Asia,Jordan,mercury,2016/06/09,Lst_OTHER_MATERIALS,coal,52.98
+Europe,Greece,Sugar ,2019/11/01,Lst_FABRICS,FABRICS,38.92
+Africa,"Tanzania, United Republic of",T-shirts,2020/11/17,Lst_BUILDING_MATERIALS,sand,50.15
+Asia,Nepal,Jerseys,2005/11/20,Lst_METALS,iron,86.04
+Asia,"Palestine, State of",Corn,2012/03/21,Lst_BUILDING_MATERIALS,cement,41.64
+Oceania,Palau,mercury,2006/07/27,Lst_BUILDING_MATERIALS,metal,96.73
+Oceania,Vanuatu,Jewelry,2012/03/17,Lst_OTHER_MATERIALS,cardboard,35.53
+Asia,"Palestine, State of",Palm oil,2004/10/14,Lst_BUILDING_MATERIALS,wood,96.92
+Oceania,Australia,seeds,2011/10/14,Lst_FABRICS,man-made fibres,51.1
+Americas,Jamaica,pullovers ,2011/11/30,Lst_OTHER_MATERIALS,smoke,94.81
+Asia,Indonesia,Cocoa beans,2001/04/29,Lst_FABRICS,polyester,73.54
+Africa,Eritrea,Coffee,2002/08/02,Lst_OTHER_MATERIALS,water,91.2
+Europe,Slovenia,seeds,2005/09/04,Lst_METALS,bronze,62.35
+Oceania,Northern Mariana Islands,T-shirts,2016/11/14,Lst_FABRICS,lace,96.65
+Africa,Egypt,seeds,2007/04/05,Lst_FABRICS,linen,96.89
+Africa,Central African Republic,pullovers ,2016/01/15,Lst_BUILDING_MATERIALS,slate,75.82
+Oceania,Guam,Palm oil,2006/10/25,Lst_METALS,carbon dioxide,61.16
+Africa,Egypt,mercury,2002/04/05,Lst_BUILDING_MATERIALS,brick,69.33
+Africa,Mozambique,Provitamins,2013/11/26,Lst_BUILDING_MATERIALS,brick,90.94
+Oceania,Tokelau,Chocolate,2003/02/08,Lst_OTHER_MATERIALS,ash,93.52
+Americas,Bolivia (Plurinational State of),Caps,2018/11/08,Lst_METALS,bronze,41.85
+Americas,Canada,Silver ,2016/02/27,Lst_METALS,alloy,32.91
+Asia,Macao,Caps,2004/11/25,Lst_OTHER_MATERIALS,dust,49.69
+Asia,Kyrgyzstan,mercury,2021/04/06,Lst_OTHER_MATERIALS,mud,44.53
+Europe,Iceland,bronze  ,2001/03/10,Lst_METALS,steel,92.56
+Asia,Afghanistan,Antibiotics ,2013/07/18,Lst_BUILDING_MATERIALS,cement,75.79
+Europe,Jersey,Chocolate,2021/06/03,Lst_OTHER_MATERIALS,dust,99.64
+Americas,Guatemala,seeds,2001/09/20,Lst_METALS,brass,54.77
+Asia,Nepal,Coffee,2011/02/05,Lst_OTHER_MATERIALS,mud,94.32
+Americas,Saint Vincent and the Grenadines,fish,2020/09/02,Lst_FABRICS,leather,32.5
+Europe,Finland,Alcohol  ,2019/07/19,Lst_FABRICS,polyester,63.62
+Oceania,Guam,Provitamins,2016/11/09,Lst_BUILDING_MATERIALS,glass,78.23
+Asia,Kazakhstan,uranium,2014/02/10,Lst_OTHER_MATERIALS,clay,56.73
+Americas,Saint Kitts and Nevis,Jewelry,2011/08/18,Lst_METALS,silver,94.09
+Asia,Kuwait,fish,2014/12/05,Lst_METALS,nitrogen,80.35
+Africa,Rwanda,seeds,2020/08/08,Lst_BUILDING_MATERIALS,brick,39.55
+Americas,Panama,Sugar ,2015/07/11,Lst_OTHER_MATERIALS,ash,37.92
+Europe,Czech Republic,Beans,2019/08/07,Lst_METALS,zinc,71.43
+Oceania,Palau,iron,2011/08/03,Lst_FABRICS,leather,92.52
+Americas,Puerto Rico,Corn,2020/03/22,Lst_OTHER_MATERIALS,cardboard,62.23
+Africa,Cameroon,mercury,2006/10/16,Lst_FABRICS,cotton,60.02
+Africa,Angola,Alcohol  ,2015/03/20,Lst_OTHER_MATERIALS,asbestos,88.97
+Americas,Suriname,Chocolate,2006/07/19,Lst_OTHER_MATERIALS,mud,73.48
+Africa,Libya,magnesium ,2007/06/15,Lst_BUILDING_MATERIALS,slate,73.79
+Americas,Barbados,magnesium ,2014/08/02,Lst_BUILDING_MATERIALS,concrete,81.14
+Americas,Greenland,safflower,2003/05/08,Lst_BUILDING_MATERIALS,metal,92.01
+Americas,Barbados,Gold,2012/09/25,Lst_METALS,tin,98.84
+Europe,Belarus,bronze  ,2009/06/19,Lst_FABRICS,cloth,50.86
+Europe,San Marino,seeds,2015/11/23,Lst_FABRICS,nylon,91.21
+Asia,"Palestine, State of",safflower,2020/02/25,Lst_BUILDING_MATERIALS,glass,95.22
+Africa,Mozambique,aluminium ,2001/01/26,Lst_OTHER_MATERIALS,asbestos,97.79
+Americas,"Bonaire, Sint Eustatius and Saba",Gold,2010/08/16,Lst_BUILDING_MATERIALS,plastic,93.7
+Europe,Romania,Corn,2005/12/11,Lst_OTHER_MATERIALS,ice,31.36
+Oceania,Tuvalu,mercury,2021/02/04,Lst_BUILDING_MATERIALS,cement,77.56
+Africa,Eritrea,pullovers ,2013/08/01,Lst_OTHER_MATERIALS,water,60.07
+Europe,Bosnia and Herzegovina,seeds,2005/03/14,Lst_BUILDING_MATERIALS,glass,36.01
+Africa,Namibia,magnesium ,2001/08/04,Lst_BUILDING_MATERIALS,metal,79.29
+Asia,Thailand,Silver ,2005/07/02,Lst_METALS,nitrogen,64.22
+Oceania,American Samoa,pullovers ,2011/04/29,Lst_METALS,magnesium,51.93
+Americas,Brazil,Gold,2017/09/28,Lst_OTHER_MATERIALS,dust,82.46
+Americas,French Guiana,T-shirts,2002/01/08,Lst_OTHER_MATERIALS,charcoal,90.68
+Europe,Liechtenstein,Provitamins,2003/08/12,Lst_OTHER_MATERIALS,gas,61.22
+Americas,Falkland Islands (Malvinas),Alcohol  ,2016/07/17,Lst_METALS,bronze,91.24
+Asia,Bahrain,Chocolate,2009/11/29,Lst_FABRICS,polyester,69.29
+Africa,Sao Tome and Principe,Palm oil,2018/02/25,Lst_METALS,copper,76.62
+Africa,Namibia,Antibiotics ,2006/02/06,Lst_BUILDING_MATERIALS,plastic,88.13
+Africa,Chad,Provitamins,2013/02/15,Lst_BUILDING_MATERIALS,metal,76.54
+Asia,Azerbaijan,Bananas,2002/07/20,Lst_METALS,nickel,80.54
+Americas,Saint Pierre and Miquelon,Meat,2003/02/12,Lst_BUILDING_MATERIALS,metal,89.86
+Europe,Montenegro,Corn,2002/11/18,Lst_METALS,GASES,76.99
+Africa,Ethiopia,pullovers ,2021/09/14,Lst_BUILDING_MATERIALS,wood,72.31
+Asia,Viet Nam,Chocolate,2013/03/28,Lst_FABRICS,cotton,90.59
+Africa,Angola,Bananas,2005/10/09,Lst_METALS,aluminium,67.56
+Asia,Iraq,fish,2015/02/11,Lst_BUILDING_MATERIALS,plastic,90.97
+Oceania,Solomon Islands,Diamonds,2002/04/01,Lst_BUILDING_MATERIALS,brick,76.18
+Oceania,Guam,Meat,2003/06/20,Lst_METALS,gold,58.13
+Asia,Hong Kong,Meat,2003/02/13,Lst_BUILDING_MATERIALS,plastic,55.73
+Africa,Ghana,fish,2010/02/01,Lst_METALS,aluminium,34.42
+Africa,Madagascar,Corn,2001/01/22,Lst_OTHER_MATERIALS,water,58.17
+Asia,Korea (Republic of),mercury,2001/02/12,Lst_OTHER_MATERIALS,gas,65.7
+Europe,Svalbard and Jan Mayen,safflower,2012/09/26,Lst_FABRICS,cotton,77.44
+Europe,Portugal,pullovers ,2020/10/12,Lst_BUILDING_MATERIALS,gravel,37.73
+Africa,RÃ©union,Bananas,2002/10/26,Lst_BUILDING_MATERIALS,slate,31.57
+Asia,Cyprus,uranium,2014/11/23,Lst_OTHER_MATERIALS,paraffin,63.0
+Europe,Croatia,Meat,2015/01/21,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,79.47
+Europe,Belgium,Gold,2007/02/24,Lst_FABRICS,FABRICS,30.42
+Africa,Western Sahara,safflower,2016/05/01,Lst_BUILDING_MATERIALS,gravel,59.7
+Americas,Guadeloupe,magnesium ,2021/01/06,Lst_FABRICS,cloth,93.08
+Africa,Sudan,aluminium ,2015/01/08,Lst_BUILDING_MATERIALS,metal,31.37
+Asia,Malaysia,Coffee,2019/08/14,Lst_FABRICS,wool,32.43
+Americas,Cayman Islands,pullovers ,2007/02/10,Lst_BUILDING_MATERIALS,concrete,47.93
+Asia,Kyrgyzstan,Alcohol  ,2020/11/03,Lst_BUILDING_MATERIALS,stone,63.34
+Asia,Timor-Leste,Diamonds,2015/03/26,Lst_FABRICS,cotton,86.74
+Europe,Russian Federation,Chocolate,2013/04/03,Lst_FABRICS,wool,98.84
+Africa,Somalia,Alcohol  ,2017/03/20,Lst_OTHER_MATERIALS,smoke,72.95
+Oceania,Wallis and Futuna,Cocoa beans,2007/07/07,Lst_OTHER_MATERIALS,petrol,63.04
+Americas,Panama,Alcohol  ,2010/10/08,Lst_OTHER_MATERIALS,ice,98.76
+Americas,Aruba,Alcohol  ,2020/01/02,Lst_METALS,nitrogen,98.18
+Europe,Albania,Antibiotics ,2013/05/06,Lst_OTHER_MATERIALS,water,75.41
+Africa,Algeria,Silver ,2013/05/26,Lst_BUILDING_MATERIALS,metal,91.96
+Oceania,Tuvalu,mercury,2004/09/25,Lst_FABRICS,silk,56.0
+Africa,Tunisia,Silver ,2014/11/02,Lst_METALS,iron,86.49
+Africa,Niger,Sugar ,2003/09/07,Lst_FABRICS,cotton,38.52
+Oceania,Samoa,Jewelry,2016/02/04,Lst_OTHER_MATERIALS,smoke,45.78
+Africa,Mozambique,aluminium ,2009/03/03,Lst_METALS,lead,77.17
+Africa,Zimbabwe,Jerseys,2005/04/11,Lst_FABRICS,leather,88.02
+Oceania,Fiji,Bananas,2015/10/21,Lst_FABRICS,lace,82.56
+Asia,Viet Nam,Coffee,2016/02/11,Lst_BUILDING_MATERIALS,glass,93.93
+Americas,Peru,Silver ,2018/02/13,Lst_BUILDING_MATERIALS,concrete,87.82
+Africa,Sao Tome and Principe,Meat,2011/09/22,Lst_OTHER_MATERIALS,smoke,55.18
+Asia,India,pullovers ,2007/12/12,Lst_FABRICS,nylon,70.76
+Africa,Zimbabwe,Antibiotics ,2004/09/17,Lst_FABRICS,silk,60.67
+Americas,Bolivia (Plurinational State of),aluminium ,2003/06/22,Lst_FABRICS,wool,86.05
+Americas,Guyana,uranium,2018/07/22,Lst_OTHER_MATERIALS,paper,99.18
+Europe,Austria,Bananas,2000/10/23,Lst_OTHER_MATERIALS,paraffin,54.67
+Asia,Lao People s Democratic Republic,Provitamins,2009/10/23,Lst_OTHER_MATERIALS,cardboard,78.99
+Europe,Czech Republic,iron,2004/05/30,Lst_FABRICS,cloth,41.41
+Americas,Costa Rica,Diamonds,2016/05/28,Lst_FABRICS,polyester,86.42
+Americas,Bahamas,Jewelry,2001/12/27,Lst_OTHER_MATERIALS,paper,79.66
+Americas,Paraguay,uranium,2002/12/24,Lst_BUILDING_MATERIALS,sand,57.11
+Europe,Guernsey,bronze  ,2001/01/08,Lst_OTHER_MATERIALS,smoke,32.29
+Oceania,Kiribati,Corn,2004/12/02,Lst_OTHER_MATERIALS,oil,80.52
+Africa,Algeria,Antibiotics ,2017/08/06,Lst_METALS,helium,48.3
+Oceania,Vanuatu,uranium,2003/03/06,Lst_BUILDING_MATERIALS,plastic,99.0
+Asia,United Arab Emirates,copper,2001/01/16,Lst_METALS,aluminium,59.4
+Europe,Monaco,pullovers ,2010/06/15,Lst_BUILDING_MATERIALS,concrete,65.21
+Americas,Haiti,T-shirts,2021/07/07,Lst_FABRICS,linen,89.29
+Americas,Barbados,Alcohol  ,2003/05/21,Lst_METALS,mercury,39.39
+Europe,San Marino,Silver ,2020/06/25,Lst_FABRICS,lace,85.01
+Europe,Czech Republic,iron,2021/07/14,Lst_BUILDING_MATERIALS,gravel,61.32
+Africa,Mali,T-shirts,2021/09/26,Lst_METALS,carbon dioxide,31.66
+Asia,Singapore,Corn,2009/07/25,Lst_BUILDING_MATERIALS,cement,97.27
+Europe,Netherlands,seeds,2002/03/30,Lst_METALS,tin,49.59
+Asia,Azerbaijan,safflower,2013/12/04,Lst_OTHER_MATERIALS,gas,51.91
+Europe,Belgium,Coffee,2019/06/05,Lst_METALS,GASES,53.82
+Europe,Gibraltar,Diamonds,2006/09/08,Lst_METALS,lead,63.94
+Oceania,Samoa,Beans,2004/08/16,Lst_METALS,aluminium,86.55
+Europe,Greece,Bananas,2004/06/12,Lst_FABRICS,FABRICS,43.6
+Europe,Luxembourg,Palm oil,2002/04/04,Lst_METALS,nickel,65.33
+Africa,Nigeria,Corn,2000/03/05,Lst_OTHER_MATERIALS,coal,61.58
+Oceania,Tonga,Palm oil,2016/08/24,Lst_METALS,platinum,90.67
+Americas,Haiti,Corn,2011/01/25,Lst_BUILDING_MATERIALS,metal,57.72
+Asia,Tajikistan,magnesium ,2009/03/31,Lst_BUILDING_MATERIALS,concrete,31.57
+Americas,Bermuda,Antibiotics ,2007/02/21,Lst_BUILDING_MATERIALS,sand,33.43
+Africa,Algeria,pullovers ,2018/06/11,Lst_FABRICS,man-made fibres,97.31
+Africa,Algeria,copper,2006/06/14,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,75.31
+Africa,Liberia,Sugar ,2010/10/06,Lst_METALS,nickel,31.16
+Asia,Turkey,Diamonds,2008/01/10,Lst_BUILDING_MATERIALS,glass,47.16
+Europe,San Marino,Cocoa beans,2010/01/09,Lst_BUILDING_MATERIALS,plastic,93.54
+Europe,Spain,Caps,2015/09/09,Lst_BUILDING_MATERIALS,plastic,49.34
+Americas,Virgin Islands (U.S.),Diamonds,2017/05/24,Lst_FABRICS,man-made fibres,39.29
+Oceania,Tuvalu,Rice,2018/07/03,Lst_OTHER_MATERIALS,cardboard,35.22
+Europe,Serbia,Silver ,2002/03/11,Lst_FABRICS,cloth,34.01
+Americas,Antigua and Barbuda,Sugar ,2016/04/01,Lst_BUILDING_MATERIALS,metal,46.05
+Africa,Mauritius,Jewelry,2002/11/01,Lst_BUILDING_MATERIALS,slate,66.69
+Asia,Lebanon,bronze  ,2000/02/07,Lst_BUILDING_MATERIALS,wood,83.97
+Asia,Lao People s Democratic Republic,Antibiotics ,2000/08/09,Lst_METALS,nickel,37.23
+Oceania,Kiribati,Alcohol  ,2015/10/08,Lst_METALS,silver,43.23
+Americas,Barbados,fish,2007/08/03,Lst_OTHER_MATERIALS,soil,44.44
+Europe,Belarus,iron,2012/08/30,Lst_METALS,zinc,67.55
+Europe,Bosnia and Herzegovina,Cocoa beans,2020/06/16,Lst_METALS,alloy,96.54
+Europe,Germany,Alcohol  ,2012/02/12,Lst_METALS,tin,41.78
+Europe,Serbia,Beans,2010/11/14,Lst_METALS,brass,55.82
+Africa,Cabo Verde,Palm oil,2006/03/20,Lst_METALS,GASES,94.91
+Europe,Svalbard and Jan Mayen,iron,2006/02/08,Lst_BUILDING_MATERIALS,plastic,74.13
+Europe,Belgium,iron,2016/09/06,Lst_BUILDING_MATERIALS,glass,36.42
+Asia,Maldives,Beans,2005/04/14,Lst_OTHER_MATERIALS,ice,92.23
+Asia,Israel,uranium,2020/07/28,Lst_OTHER_MATERIALS,paper,45.08
+Americas,French Guiana,aluminium ,2021/11/07,Lst_BUILDING_MATERIALS,metal,73.97
+Americas,Peru,uranium,2002/09/09,Lst_OTHER_MATERIALS,rubber,83.28
+Americas,Chile,copper,2017/01/16,Lst_METALS,magnesium,75.13
+Europe,Denmark,Chocolate,2009/06/28,Lst_FABRICS,FABRICS,59.57
+Oceania,Norfolk Island,magnesium ,2011/01/05,Lst_OTHER_MATERIALS,chalk,76.76
+Oceania,French Polynesia,Jerseys,2006/10/08,Lst_BUILDING_MATERIALS,concrete,49.92
+Americas,Guadeloupe,seeds,2014/03/24,Lst_OTHER_MATERIALS,coal,58.05
+Oceania,Micronesia (Federated States of),Silver ,2005/04/30,Lst_METALS,brass,82.37
+Asia,Myanmar,Diamonds,2014/11/22,Lst_METALS,brass,56.15
+Africa,South Africa,Provitamins,2015/09/13,Lst_FABRICS,man-made fibres,35.29
+Americas,El Salvador,Palm oil,2010/12/04,Lst_OTHER_MATERIALS,chalk,39.0
+Asia,Nepal,Corn,2019/04/23,Lst_OTHER_MATERIALS,paper,76.05
+Europe,Romania,T-shirts,2015/03/12,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,77.68
+Africa,Rwanda,fish,2006/01/19,Lst_FABRICS,cloth,42.66
+Africa,South Sudan,Beans,2000/07/12,Lst_BUILDING_MATERIALS,stone,90.81
+Oceania,New Zealand,Jerseys,2010/02/28,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,93.05
+Africa,Djibouti,Gold,2000/02/06,Lst_OTHER_MATERIALS,fibreglass,61.81
+Asia,Turkey,iron,2009/10/12,Lst_OTHER_MATERIALS,oil,91.33
+Europe,Czech Republic,Silver ,2002/01/31,Lst_FABRICS,nylon,49.77
+Americas,Aruba,safflower,2009/11/19,Lst_METALS,helium,83.87
+Oceania,Vanuatu,Gold,2019/04/24,Lst_METALS,METALS,96.98
+Asia,Cambodia,pullovers ,2020/08/08,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,33.67
+Americas,Martinique,safflower,2011/07/03,Lst_METALS,gold,85.25
+Europe,Serbia,magnesium ,2014/07/22,Lst_OTHER_MATERIALS,charcoal,89.6
+Americas,Saint Martin (French part),seeds,2005/12/27,Lst_OTHER_MATERIALS,clay,81.32
+Europe,Finland,Silver ,2004/02/14,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,83.03
+Oceania,French Polynesia,Coffee,2002/10/24,Lst_OTHER_MATERIALS,water,78.72
+Africa,Algeria,aluminium ,2009/02/26,Lst_METALS,copper,46.45
+Americas,Saint Martin (French part),seeds,2012/11/11,Lst_METALS,bronze,46.09
+Europe,Poland,Sugar ,2000/12/13,Lst_BUILDING_MATERIALS,glass,96.85
+Africa,Somalia,Gold,2006/02/11,Lst_OTHER_MATERIALS,fibreglass,90.7
+Asia,Cyprus,Alcohol  ,2002/01/08,Lst_BUILDING_MATERIALS,metal,64.58
+Americas,Martinique,Rice,2015/06/02,Lst_FABRICS,FABRICS,78.44
+Oceania,Tonga,bronze  ,2011/02/28,Lst_METALS,copper,51.87
+Africa,Niger,Caps,2005/02/12,Lst_FABRICS,man-made fibres,31.67
+Africa,Zambia,Rice,2002/10/11,Lst_OTHER_MATERIALS,ash,48.59
+Africa,Swaziland,fish,2005/07/23,Lst_BUILDING_MATERIALS,concrete,87.91
+Europe,Ukraine,Cocoa beans,2007/04/14,Lst_OTHER_MATERIALS,OTHER MATERIALS,82.46
+Africa,Mozambique,uranium,2009/01/18,Lst_OTHER_MATERIALS,dust,34.2
+Americas,Dominica,T-shirts,2020/05/19,Lst_METALS,oxygen,69.97
+Asia,Iraq,Bananas,2019/12/08,Lst_OTHER_MATERIALS,charcoal,34.95
+Europe,Andorra,Gold,2002/09/06,Lst_BUILDING_MATERIALS,BUILDING MATERIALS,45.42
+Africa,Tunisia,seeds,2009/11/14,Lst_FABRICS,wool,95.5
+Oceania,Kiribati,Jerseys,2001/06/26,Lst_METALS,hydrogen,51.1
+Asia,Macao,copper,2017/01/01,Lst_FABRICS,FABRICS,42.12
+Oceania,New Zealand,Corn,2018/10/06,Lst_FABRICS,lace,48.69
+Oceania,Northern Mariana Islands,Palm oil,2017/09/13,Lst_BUILDING_MATERIALS,metal,32.79
+Asia,United Arab Emirates,Chocolate,2016/12/20,Lst_BUILDING_MATERIALS,marble,49.41
+Asia,Nepal,Beans,2011/01/01,Lst_METALS,nitrogen,39.67
+Oceania,Australia,Provitamins,2012/07/03,Lst_METALS,nickel,82.36
+Oceania,Kiribati,iron,2000/04/03,Lst_FABRICS,silk,48.16
+Africa,Zimbabwe,Coffee,2005/07/01,Lst_OTHER_MATERIALS,oil,58.27
+Americas,Bermuda,Provitamins,2015/08/31,Lst_BUILDING_MATERIALS,cement,68.74
+Europe,Serbia,Jewelry,2007/12/16,Lst_FABRICS,wool,33.73
+Americas,Antigua and Barbuda,Palm oil,2018/08/05,Lst_METALS,copper,57.79
+Oceania,American Samoa,magnesium ,2011/09/12,Lst_FABRICS,linen,49.07
+Asia,Tajikistan,Corn,2020/02/21,Lst_OTHER_MATERIALS,paraffin,76.36
+Americas,Chile,Gold,2017/03/14,Lst_OTHER_MATERIALS,smoke,59.72
+Asia,Korea (Republic of),safflower,2000/10/24,Lst_OTHER_MATERIALS,fibreglass,80.73
+Asia,Turkmenistan,Antibiotics ,2018/09/02,Lst_BUILDING_MATERIALS,stone,87.07
+Africa,Congo (Democratic Republic of the),Jerseys,2011/10/02,Lst_OTHER_MATERIALS,chalk,79.13
+Americas,Trinidad and Tobago,safflower,2018/11/04,Lst_METALS,platinum,63.39
+Asia,United Arab Emirates,Antibiotics ,2007/11/18,Lst_FABRICS,cotton,56.08
+Africa,Sudan,Chocolate,2002/07/01,Lst_METALS,silver,39.42
+Oceania,Northern Mariana Islands,Bananas,2001/01/14,Lst_FABRICS,cloth,60.36
+Oceania,Australia,aluminium ,2020/04/15,Lst_METALS,helium,58.19
+Africa,Kenya,Meat,2019/04/04,Lst_FABRICS,cloth,55.4
+Africa,Mozambique,Alcohol  ,2012/06/15,Lst_OTHER_MATERIALS,rubber,30.56
+Asia,Macao,Bananas,2000/06/28,Lst_METALS,nitrogen,41.32
+Americas,Greenland,Diamonds,2020/06/26,Lst_BUILDING_MATERIALS,gravel,46.96
+Europe,Norway,Diamonds,2010/05/04,Lst_BUILDING_MATERIALS,wood,63.58
+Asia,Maldives,seeds,2013/06/01,Lst_BUILDING_MATERIALS,marble,86.17
+Europe,Croatia,mercury,2001/05/25,Lst_FABRICS,nylon,72.62
+Europe,Latvia,bronze  ,2019/05/22,Lst_OTHER_MATERIALS,soil,55.02
+Asia,Cyprus,Diamonds,2009/06/16,Lst_OTHER_MATERIALS,charcoal,78.35
+Europe,Latvia,Alcohol  ,2004/11/08,Lst_FABRICS,silk,58.42
+Africa,Niger,aluminium ,2021/04/02,Lst_OTHER_MATERIALS,asbestos,40.36
+Africa,Niger,Jewelry,2004/12/07,Lst_FABRICS,lace,51.97
+Americas,Anguilla,Coffee,2007/03/16,Lst_OTHER_MATERIALS,paper,59.04
+Europe,Greece,safflower,2004/03/20,Lst_BUILDING_MATERIALS,glass,40.65
+Europe,France,Bananas,2000/08/04,Lst_METALS,uranium,90.09
+Europe,San Marino,fish,2002/01/23,Lst_BUILDING_MATERIALS,marble,70.35
+Oceania,Norfolk Island,Coffee,2010/04/24,Lst_FABRICS,polyester,66.59
+Americas,Puerto Rico,Bananas,2020/08/13,Lst_FABRICS,wool,63.85
+Americas,Mexico,Gold,2014/10/09,Lst_FABRICS,man-made fibres,85.38
+Europe,Belgium,iron,2009/06/27,Lst_BUILDING_MATERIALS,concrete,69.47
+Europe,Finland,Silver ,2013/05/06,Lst_FABRICS,FABRICS,64.92
+Africa,South Sudan,copper,2014/12/23,Lst_BUILDING_MATERIALS,glass,39.52

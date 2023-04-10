@@ -1,0 +1,68 @@
+{
+    "Asia": {
+        "country": "Yemen",
+        "code_2": "YE",
+        "code_3": "YEM",
+        "country_code": "887",
+        "iso_3166_2": "ISO 3166-2:YE",
+        "continent": "Asia",
+        "sub_region": "Western Asia",
+        "region_code": "142",
+        "sub_region_code": "145"
+    },
+    "Europe": {
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "code_2": "GB",
+        "code_3": "GBR",
+        "country_code": "826",
+        "iso_3166_2": "ISO 3166-2:GB",
+        "continent": "Europe",
+        "sub_region": "Northern Europe",
+        "region_code": "150",
+        "sub_region_code": "154"
+    },
+    "Africa": {
+        "country": "Zimbabwe",
+        "code_2": "ZW",
+        "code_3": "ZWE",
+        "country_code": "716",
+        "iso_3166_2": "ISO 3166-2:ZW",
+        "continent": "Africa",
+        "sub_region": "Eastern Africa",
+        "region_code": "2",
+        "sub_region_code": "14"
+    },
+    "Oceania": {
+        "country": "Wallis and Futuna",
+        "code_2": "WF",
+        "code_3": "WLF",
+        "country_code": "876",
+        "iso_3166_2": "ISO 3166-2:WF",
+        "continent": "Oceania",
+        "sub_region": "Polynesia",
+        "region_code": "9",
+        "sub_region_code": "61"
+    },
+    "Americas": {
+        "country": "Virgin Islands (U.S.)",
+        "code_2": "VI",
+        "code_3": "VIR",
+        "country_code": "850",
+        "iso_3166_2": "ISO 3166-2:VI",
+        "continent": "Americas",
+        "sub_region": "Caribbean",
+        "region_code": "19",
+        "sub_region_code": "29"
+    },
+    "": {
+        "country": "United States Minor Outlying Islands",
+        "code_2": "UM",
+        "code_3": "UMI",
+        "country_code": "581",
+        "iso_3166_2": "ISO 3166-2:UM",
+        "continent": "",
+        "sub_region": "",
+        "region_code": "",
+        "sub_region_code": ""
+    }
+}
