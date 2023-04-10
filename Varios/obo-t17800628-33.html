@@ -1,0 +1,881 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Language" content="es-mx">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<META NAME="Title" CONTENT="PHOTOPLANET.com.mx">
+<META NAME="Author" CONTENT="Sistemas Integrales en Línea S.A. de C.V.">
+<META NAME="Subject" CONTENT="Galería y archivo fotográfico">
+<META NAME="Description" CONTENT="Busque las fotografías de su evento aquí!. Miles de fotografías de eventos publicos y privados a su disposición, compre sólo las fotografías de su interes.">
+<META NAME="Keywords" CONTENT="fotos, fotografías, skins, fotógrafos, eventos sociales, eventos deportivos, eventos culturales.">
+<META NAME="Generator" CONTENT="Dreamweaver CC">
+<META NAME="Language" CONTENT="Spanish">
+<META NAME="Revisit" CONTENT="1 day">
+<META NAME="Distribution" CONTENT="Global">
+<META NAME="Robots" CONTENT="All">
+
+<title>Raúl Alcalá Challenge,  MORELOS</title>
+    
+   <link href="../CSS/principal.css" rel="stylesheet" type="text/css" /> 
+   <link rel="shortcut icon" href="favicon.ico" >
+   
+   <link rel="stylesheet" type="text/css" href="../CSS/style.css"/>
+   
+
+
+
+<script language="javascript" type="text/javascript">
+    function Accion(X) {
+                            var ruta = X;
+			
+					if (ruta == 1)
+						{
+						    document.getElementById("album").action = "findphoto.asp"
+						    document.getElementById("album").target = "_self"
+							document.getElementById("album").submit();
+			            }
+			        if (ruta == 2) {
+			            document.getElementById("album").action = "selectphoto.asp"
+			            document.getElementById("album").target = "_parent"
+			            document.getElementById("album").submit();
+			            }
+			    }
+
+			    function Accion_PAGCANT(X) {
+			        var ruta = X;
+			        if (ruta == 0) {
+			            document.getElementById("pagcant").action = "findphoto.asp";
+			            document.getElementById("pagcant").submit();
+			        }
+
+			        if (ruta == 1) {
+			             document.getElementById("pagcant").action = "findphoto.asp";
+			             document.getElementById("pagcant").pag.value = "1";
+			             document.getElementById("pagcant").submit();
+
+			            // document.pagcant.action = "findphoto.asp"
+			            // document.pagcant.pag.value = "1";
+			            // document.pagcant.submit();
+			        }
+
+			        if (ruta == 2) {
+			            document.getElementById("pagcant").action = "findphoto.asp";
+			            document.getElementById("pagcant").pag.value = document.getElementById("pagcant").pag2.value;
+			            document.getElementById("pagcant").submit();
+			        }
+			    }
+
+			    function Accion_WL(X) {
+			        var ruta = X;
+			        if (ruta == 1) {
+			            document.getElementById("wishlistform").action = "findphoto.asp";
+			            document.getElementById("wishlistform").submit();
+			        }
+			    }
+</script>
+
+<script type="text/javascript">
+
+    /***********************************************
+    * Disable Text Selection script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+    ***********************************************/
+
+    function disableSelection(target) {
+        if (typeof target.onselectstart != "undefined") //IE route
+            target.onselectstart = function () { return false }
+        else if (typeof target.style.MozUserSelect != "undefined") //Firefox route
+            target.style.MozUserSelect = "none"
+        else //All other route (ie: Opera)
+            target.onmousedown = function () { return false }
+        target.style.cursor = "default"
+    }
+
+    //Sample usages
+    //disableSelection(document.body) //Disable text selection on entire body
+    //disableSelection(document.getElementById("mydiv")) //Disable text selection on element with id="mydiv"
+
+</script>
+    <style type="text/css">
+        .style1
+        {
+            font-size: small;
+            font-family: Arial;
+            width: 203px;
+        }
+		
+		.select {
+			  font-size: 16px;
+			  position: relative;
+			  display: inline-block;
+		}
+		
+		.select select {
+			  outline: none;
+			  -webkit-appearance: none;
+			  display: block;
+			  padding: 1.2em 3em 1.3em 1.5em;
+			  margin: 0;
+			
+			  transition: border-color 0.2s;
+			  border: 5px solid #214A06;
+			  border-radius: 5px;
+			
+			  background: #ADC53E;
+			  color: #06222E;
+			  line-height: normal;
+			  font-family: Arial;
+			  font-size: inherit;
+			  line-height: inherit;
+		}
+		
+		.select .arr {
+			  background: #ADC53E;
+			  bottom: 5px;
+			  position: absolute;
+			  right: 5px;
+			  top: 5px;
+			  width: 50px;
+			  pointer-events: none;
+		}
+		.select .arr:before {
+			  content: '';
+			  position: absolute;
+			  top: 50%;
+			  right: 24px;
+			  margin-top: -5px;
+			  pointer-events: none;
+			  border-top: 10px solid #214A06;
+			  border-left: 10px solid transparent;
+			  border-right: 10px solid transparent;
+		}
+		
+		.select .arr:after {
+			  content: '';
+			  position: absolute;
+			  top: 50%;
+			  right: 28px;
+			  margin-top: -5px;
+			  pointer-events: none;
+			  border-top: 6px solid #ADC53E;
+			  border-left: 6px solid transparent;
+			  border-right: 6px solid transparent;
+		}
+
+		.buttonLog {
+			background-color: #ADC53E; /* Orange */
+			border: 5px solid #214A06;
+		    border-radius: 5px;			
+			color: #06222E;
+			padding: 20px 30px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			font-weight: bold;
+		}
+		
+		.buttonLog:hover {
+			background-color: #81942C;
+		}		
+		
+    </style>
+
+    <link href="../CSS/Modal/dhtmlwindow.css" rel="stylesheet" type="text/css" />
+    <script src="../JS/Modal/dhtmlwindow.js" type="text/javascript">
+
+
+        /***********************************************
+        * DHTML Window Widget- © Dynamic Drive (www.dynamicdrive.com)
+        * This notice must stay intact for legal use.
+        * Visit http://www.dynamicdrive.com/ for full source code
+        ***********************************************/
+
+    </script>
+    <link href="../CSS/Modal/modal.css" rel="stylesheet" type="text/css" />
+    <script src="../JS/Modal/modal.js" type="text/javascript"></script>
+
+<meta property="fb:app_id" 				content="214368398596179">
+<meta property="og:url"     	        content="http://www.photoplanet.com.mx" />
+<meta property="og:type"        	    content="website" />
+<meta property="og:title"           	content="Capturando los mejores momentos de tu vida" />
+<meta property="og:description"       	content="Con más de 70 fotógrafos en todo el país y equipo fotográfico de la más alta calidad, cubrimos tus eventos de manera profesional. Fotografía deportiva, eventos sociales, eventos corporativos, retrato, producto y más." />
+<meta property="og:image"             	content="http://www.photoplanet.com.mx/images/aplicacion/Logo_Principal_FREE.png" />
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '803510833315442');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=803510833315442&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body bgcolor="#06222E"; oncontextmenu="return false";>
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script type="text/javascript" src="../JS/index.js"></script>
+
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+
+
+  <script type="text/javascript">
+
+    function openPlayer(cat, subcat, gpo, alb, iwl, cro, bkw) {
+        var iCat = cat;
+        var iSubCat = subcat;
+        var iGpo = gpo;
+        var iAlb = alb;
+        var iWL = iwl;
+        var bCro = cro;
+        var bKW = bkw;
+
+        skinwindow = dhtmlmodal.open('Players', 'iframe', 'Players.asp?cat=' + iCat + '&subcat=' + iSubCat + '&gpo=' + iGpo + '&alb=' + iAlb + '&iwl=' + iWL + '&cro=' + bCro + '&bkw=' + bKW, 'Seleccionando a un participante', 'width=500px, height=425px, center=1, resize=0, scrolling=1')
+
+        skinwindow.onclose = function () { //Define custom code to run when window is closed
+            window.location = 'detailOrder.asp?ido=';
+        }
+    } //End "opennewsletter" function
+	
+	
+    function NewNotification(alb, ema) {
+        var iAlb = alb;
+        var sEma = ema;
+
+        skinwindow = dhtmlmodal.open('Players', 'iframe', 'NewNotification.asp?alb=' + iAlb + '&ema=' + sEma, 'Nueva notificación', 'width=500px, height=250px, center=1, resize=0, scrolling=1')
+
+        skinwindow.onclose = function () { //Define custom code to run when window is closed
+            window.location = 'NewNotification.asp?ido=';
+        }
+    } //End "opennewsletter" function	
+	
+</script>
+<meta http-equiv="Content-Language" content="es-mx">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"> <meta content="utf-8" http-equiv="encoding">
+<link href="../CSS/principal.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="../CSS/menu.css">
+   
+<!--input autocompletable-->
+<link rel="stylesheet" href="../auto/css/style.css">
+<script type="text/javascript" src="../auto/js/jquery.min.js"></script>
+<script type="text/javascript" src="../auto/js/script.js"></script>
+
+
+
+<table align="center" cellpadding="0" cellspacing="0" width="100%">
+	<tr>   
+		<td width="28" class="fondo_encabezado"></td>
+		<td width="120" align="left" valign="middle" class="fondo_encabezado"><a href="http://www.photoplanet.com.mx"><img alt="" src="../images/aplicacion/Logo_Principal.png" style="border-width: 0px" /></a></td>
+		<td width="500" align="right" class="fondo_encabezado" valign="middle">
+           <form method="get" action="http://www.photoplanet.com.mx/Find/findalbum.asp" name="evento">
+		        <table width="100%">
+                    <tr>                  
+                        <td class="texto_chico" valign="middle">&nbsp;</td>
+                        <td class='fondo_encabezado_login_nombre' valign="middle">&iquest;Qu&eacute; buscas?</td>                        
+                        <td class='fondo_encabezado_login_nombre' valign="top" align="right"></td>
+                    </tr>                
+                    <tr>
+                        <td class="texto_chico" valign="middle">&nbsp;</td>
+                        <td class="texto_chico" valign="middle">
+                        	<div class="input_container">
+                                <input type="text" id="country_id" name="country_id"  onkeyup="autocomplet()" style="width: 200px" autocomplete="off">
+                                <ul id="country_list_id"></ul>
+                            </div></td>
+                        <td class="texto_chico" valign="middle"><input id="Submit2" type="submit" type="button" value="buscar" onClick="enviar()"  />
+                            
+                       </td>
+                    </tr>
+				</table>
+                        <input type="hidden" name="cat" value="0">
+                        <input type="hidden" name="subcat" value="0">
+                        <input type="hidden" name="gpo" value="0">
+                        <input type="hidden" name="alb" value="0">
+              </form>
+        </td>
+		<td width="200" class="fondo_encabezado_login_nombre" valign="middle" align="right">
+        </td>
+        <td width="930" align="right" valign="bottom" class="fondo_encabezado">
+        	<table cellpadding="3" cellspacing="5" width="65%">
+			<tr>
+
+
+	<td width="35%"><a href="http://www.photoplanet.com.mx/users/login.asp" style='text-decoration:none;' class='fondo_encabezado_login_nombre'>Inicio de sesi&oacute;n / Registro</a></td>
+
+	<td width="65%" align="right"><a href="http://www.photoplanet.com.mx/orders/cart.asp">
+		<img src="../images/aplicacion/Shopping_Cart.png" alt="" style="border-width: 0px" align="absmiddle"  /></a>
+		<a class='fondo_encabezado_login_nombre' style="text-decoration:none; " href="http://www.photoplanet.com.mx/orders/cart.asp">0 fotos $ 0.00 MXP</a>
+	</td>
+   
+    </tr>
+                </table>
+        &nbsp;</td>
+        <td class="fondo_encabezado" width="15"></td>
+    </tr>
+    
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" width="100%" bgcolor="#214A06">
+<tr>
+            <td class="separadorblanco" colspan="4"></td >
+        </tr>
+<tr >
+<td  >
+
+    <ul id="topnav" >
+        <li><a href="http://www.photoplanet.com.mx/qsomos.asp">Quienes somos</a></li>
+        <li><a href="http://www.photoplanet.com.mx/find/findalbum.asp?cat=0&subcat=0&gpo=0">Eventos</a></li>
+        <li><a href="http://www.photoplanet.com.mx/preventas/listpreventas.asp">Preventas</a></li>
+        
+        
+          
+           <li><a href="http://www.photoplanet.com.mx/faq.asp" >Ayuda</a></li>
+    </ul>
+</td>   
+<td style="padding-top:6px;"> 
+  <a target="_blank" href="http://www.facebook.com/#!/pages/PHOTOPLANETcommx/185269701515466"><img src="http://www.photoplanet.com.mx/images/aplicacion/logos/facebookv.png" style="border-width: 0px; width: 32px; height: 32px" /></a>&nbsp;&nbsp; 
+  <a target="_blank" href="https://www.instagram.com/photoplanet.com.mx/"><img src="http://www.photoplanet.com.mx/images/aplicacion/logos/tvv.png" style="border-width: 0px; width: 32px; height: 32px" /></a>
+  <a target="_blank" href="http://twitter.com/photoplanetMX"><img src="http://www.photoplanet.com.mx/images/aplicacion/logos/twitterv.png" style="border-width: 0px; width: 32px; height: 32px" /></a>
+  <a target="_blank" href="https://www.youtube.com/channel/UC5FhECWypnAHbEODNFGL-qw"><img src="http://www.photoplanet.com.mx/images/aplicacion/logos/youtubev.png" style="border-width: 0px; width: 32px; height: 32px"></a>
+   
+</td>  
+</tr>        
+</table>
+
+
+
+
+        <br />
+<table class="espacio_principal" align="center" cellspacing="10">
+        <tr>
+            <td>
+                <table width="100%">
+                    <tr>
+                            <td valign="baseline" colspan="2">
+                            <form id="pagcant" name="pagcant" method="get">
+                            <table width="100%">
+                                    <tr>
+                                        <td class="texto_chico" align="left">Raúl Alcalá Challenge<br />MORELOS<br /><spam class="info_foto_miniatura">Domingo 12 de Junio del 2022</spam>
+                                        <p style="margin: 3px 0px 5px 0px;">
+                                        <!-- AddThis Button BEGIN -->
+                                          <div class="addthis_toolbox addthis_default_style " style="margin-bottom: -20px">
+                                                        <a class="addthis_button_preferred_1"></a>
+                                                        <a class="addthis_button_preferred_2"></a>
+                                                        <a class="addthis_button_preferred_3"></a>
+                                                        <a class="addthis_button_preferred_4"></a>
+                                          </div>
+                                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=photoplanet"></script>
+                                        <!-- AddThis Button END -->
+                                        </p>
+                                        </td>
+                                        <td class="style1" align="center">23 fotografías<br />encontradas</td>
+                                        <td class="find_controles" align="center">Mostrando de la 1<br />a la 23</td>
+                            <td class="opciones_foto_rojo_M" align="center"></td>
+                            <td class="find_controles" align="center">Mostrar
+                                <select class="find_controles" onChange="Accion_PAGCANT(1);" id="Select1" name="phpg">
+                                    <option selected>100</option>
+                                    <option >250</option>
+                                </select> fotografías por página</td>                                
+                            <td class="find_controles" align="right">
+                            &nbsp;&nbsp; Página
+                                <select class="find_controles" onChange="Accion_PAGCANT(0);" name="pag">
+	<option selected value='1'>1</option>
+				</select>
+&nbsp; </td>
+                                    </tr>
+                                    
+                                            <tr>
+                                                <td align="center" colspan="6"><hr /></td>
+                                            </tr>
+                                    
+                                    <tr>
+                                        <td class="texto_chico" align="left" colspan="6">                                        
+                                        
+                                                <table width="100%">
+                                                    <tr>
+                                                        <td width="80%">
+															
+        <table width="100%">
+                <tr>
+                    <td class="texto_chico" width="10%">Ubicación:</td>
+
+                    <td class="formato_combo" align="center">
+                    		<table width="100%">
+                            		
+                                    <tr>
+                                            <td><input name="box0" value="3644" id="Checkbox1" type="checkbox"
+                    checked />&nbsp;Salida&nbsp;(4)
+                        					
+                        					</td>
+                                            <td><input name="box1" value="3645" id="Checkbox1" type="checkbox"
+                    checked />&nbsp;Saliendo a la carretera&nbsp;(3)
+					                        
+                        					</td>
+                                            <td><input name="box2" value="3647" id="Checkbox1" type="checkbox"
+                    checked />&nbsp;km 55&nbsp;(7)
+                        			        
+                        					</td>
+                                            <td><input name="box3" value="3648" id="Checkbox1" type="checkbox"
+                    checked />&nbsp;km 100&nbsp;(6)
+                        			        
+                        					</td>                                                                        
+                                    </tr>
+                                    
+                                    <tr>
+                                            <td><input name="box4" value="3649" id="Checkbox1" type="checkbox"
+                    checked />&nbsp;Último esfuerzo&nbsp;(1)
+                        					
+                        					</td>
+                                            <td><input name="box5" value="3650" id="Checkbox1" type="checkbox"
+                    checked />&nbsp;Meta&nbsp;(2)
+					                        
+                        					</td>
+                                            <td>
+                        					</td>
+                                            <td>
+                        					</td>                                                                        
+                                    </tr>
+                                    
+                            </table>                    
+                    </td>
+
+                    <td align="right" width="10%"><input class="formato_combo" onclick="Accion_PAGCANT(1);" id="Submit1" type="submit" value="mostrar fotografías" /></td>
+                </tr>
+        </table>
+        <input type="hidden" name="box" value="5">
+                                                        </td>
+                                                        <td width="20%" align="center">
+                                                                
+                 <table width="100%">
+                                <tr>
+                                    <td align="center"><a class="boton" href="#" onClick="openPlayer('5','84','863','1077','0','N','S'); return false">Corredor No. 235</a>
+                                        </td>
+                                </tr>
+                </table>
+
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                       
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" colspan="6"><hr /></td>
+                                    </tr>
+                                </table>
+                            <input type="hidden" name="cat" value="5">
+                            <input type="hidden" name="subcat" value="84">
+                            <input type="hidden" name="gpo" value="863">
+                            <input type="hidden" name="alb" value="1077">
+                            <input type="hidden" name="key" value="235">
+                            <input type="hidden" name="ply" value="0">
+                            <input type="hidden" name="iwl" value="0">
+                            <table width="100%" border="0">
+                              <tr>
+                                <td valign="top">
+                                	<table width="100%" border="0">
+										
+                            		<tr>
+                                 		<td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=T3320348&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="T3320348" src="/images/photos_PV/2022/06/1077/12930/T3320348_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=T3320348&iwl=0" title="De clic para ver el detalle de la imagen" />ID T3320348</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=T3320348&iwl=0" title="De clic para ver el detalle de la imagen" />7:52:20 AM</a></td>
+                                                        </tr>
+                                            </table>
+		                                </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=V3318715&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img1" src="/images/photos_PV/2022/06/1077/12930/V3318715_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=V3318715&iwl=0" title="De clic para ver el detalle de la imagen" />ID V3318715</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=V3318715&iwl=0" title="De clic para ver el detalle de la imagen" />8:00:58 AM</a></td>
+                                                        </tr>
+                                            </table>
+        		                        </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=V3319785&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img2" src="/images/photos_PV/2022/06/1077/12930/V3319785_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=V3319785&iwl=0" title="De clic para ver el detalle de la imagen" />ID V3319785</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=V3319785&iwl=0" title="De clic para ver el detalle de la imagen" />8:05:56 AM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=V3319792&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img3" src="/images/photos_PV/2022/06/1077/12930/V3319792_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=V3319792&iwl=0" title="De clic para ver el detalle de la imagen" />ID V3319792</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=V3319792&iwl=0" title="De clic para ver el detalle de la imagen" />8:05:57 AM</a></td>
+                                                        </tr>
+                                            </table>
+	                                    </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=B3317618&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img4" src="/images/photos_PV/2022/06/1077/302/B3317618_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=B3317618&iwl=0" title="De clic para ver el detalle de la imagen" />ID B3317618</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=B3317618&iwl=0" title="De clic para ver el detalle de la imagen" />8:11:34 AM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="5"><hr /></td>
+                            </tr>
+
+                            		<tr>
+                                 		<td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=B3317683&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="B3317683" src="/images/photos_PV/2022/06/1077/302/B3317683_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=B3317683&iwl=0" title="De clic para ver el detalle de la imagen" />ID B3317683</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=B3317683&iwl=0" title="De clic para ver el detalle de la imagen" />8:11:34 AM</a></td>
+                                                        </tr>
+                                            </table>
+		                                </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=B3317803&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img1" src="/images/photos_PV/2022/06/1077/302/B3317803_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=B3317803&iwl=0" title="De clic para ver el detalle de la imagen" />ID B3317803</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=B3317803&iwl=0" title="De clic para ver el detalle de la imagen" />8:11:35 AM</a></td>
+                                                        </tr>
+                                            </table>
+        		                        </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317238&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img2" src="/images/photos_PV/2022/06/1077/302/X3317238_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317238&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317238</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317238&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:07 AM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317315&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img3" src="/images/photos_PV/2022/06/1077/302/X3317315_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317315&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317315</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317315&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:12 AM</a></td>
+                                                        </tr>
+                                            </table>
+	                                    </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317355&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img4" src="/images/photos_PV/2022/06/1077/302/X3317355_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317355&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317355</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317355&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:13 AM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="5"><hr /></td>
+                            </tr>
+
+                            		<tr>
+                                 		<td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317408&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="X3317408" src="/images/photos_PV/2022/06/1077/302/X3317408_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317408&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317408</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317408&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:14 AM</a></td>
+                                                        </tr>
+                                            </table>
+		                                </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317417&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img1" src="/images/photos_PV/2022/06/1077/302/X3317417_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317417&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317417</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317417&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:15 AM</a></td>
+                                                        </tr>
+                                            </table>
+        		                        </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317610&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img2" src="/images/photos_PV/2022/06/1077/302/X3317610_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317610&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317610</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317610&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:17 AM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=X3317634&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img3" src="/images/photos_PV/2022/06/1077/302/X3317634_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317634&iwl=0" title="De clic para ver el detalle de la imagen" />ID X3317634</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=X3317634&iwl=0" title="De clic para ver el detalle de la imagen" />10:28:17 AM</a></td>
+                                                        </tr>
+                                            </table>
+	                                    </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=Q3317304&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img4" src="/images/photos_PV/2022/06/1077/302/Q3317304_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317304&iwl=0" title="De clic para ver el detalle de la imagen" />ID Q3317304</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317304&iwl=0" title="De clic para ver el detalle de la imagen" />12:41:57 PM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="5"><hr /></td>
+                            </tr>
+
+                            		<tr>
+                                 		<td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=Q3317269&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Q3317269" src="/images/photos_PV/2022/06/1077/302/Q3317269_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317269&iwl=0" title="De clic para ver el detalle de la imagen" />ID Q3317269</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317269&iwl=0" title="De clic para ver el detalle de la imagen" />12:41:57 PM</a></td>
+                                                        </tr>
+                                            </table>
+		                                </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=Q3317330&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img1" src="/images/photos_PV/2022/06/1077/302/Q3317330_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317330&iwl=0" title="De clic para ver el detalle de la imagen" />ID Q3317330</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317330&iwl=0" title="De clic para ver el detalle de la imagen" />12:41:57 PM</a></td>
+                                                        </tr>
+                                            </table>
+        		                        </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=Q3317354&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img2" src="/images/photos_PV/2022/06/1077/302/Q3317354_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317354&iwl=0" title="De clic para ver el detalle de la imagen" />ID Q3317354</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317354&iwl=0" title="De clic para ver el detalle de la imagen" />12:41:58 PM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=Q3317400&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img3" src="/images/photos_PV/2022/06/1077/302/Q3317400_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317400&iwl=0" title="De clic para ver el detalle de la imagen" />ID Q3317400</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317400&iwl=0" title="De clic para ver el detalle de la imagen" />12:41:58 PM</a></td>
+                                                        </tr>
+                                            </table>
+	                                    </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=Q3317365&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img4" src="/images/photos_PV/2022/06/1077/302/Q3317365_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317365&iwl=0" title="De clic para ver el detalle de la imagen" />ID Q3317365</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=Q3317365&iwl=0" title="De clic para ver el detalle de la imagen" />12:41:58 PM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="5"><hr /></td>
+                            </tr>
+
+                            		<tr>
+                                 		<td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=N3318582&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="N3318582" src="/images/photos_PV/2022/06/1077/12930/N3318582_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=N3318582&iwl=0" title="De clic para ver el detalle de la imagen" />ID N3318582</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=N3318582&iwl=0" title="De clic para ver el detalle de la imagen" />12:49:28 PM</a></td>
+                                                        </tr>
+                                            </table>
+		                                </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=S3325572&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img1" src="/images/photos_PV/2022/06/1077/12332/S3325572_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=S3325572&iwl=0" title="De clic para ver el detalle de la imagen" />ID S3325572</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=S3325572&iwl=0" title="De clic para ver el detalle de la imagen" />12:57:31 PM</a></td>
+                                                        </tr>
+                                            </table>
+        		                        </td>
+                                
+                                        <td valign="baseline">
+                                            <table align="center">
+                                                        <tr>
+                                                            <td colspan="2"><a href="detalle.asp?PH=S3325575&iwl=0" title="De clic para ver el detalle de la imagen" /><img id="Img2" src="/images/photos_PV/2022/06/1077/12332/S3325575_PV.JPG" border="0" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left"><a class="info_foto_miniatura" href="detalle.asp?PH=S3325575&iwl=0" title="De clic para ver el detalle de la imagen" />ID S3325575</a></td>
+                                                            <td align="right"><a class="info_foto_miniatura" href="detalle.asp?PH=S3325575&iwl=0" title="De clic para ver el detalle de la imagen" />12:57:33 PM</a></td>
+                                                        </tr>
+                                            </table>
+                                 </td>
+                                
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="5"><hr /></td>
+                            </tr>
+
+                            <tr>
+                                <td class="find_controles" align="right" colspan="5">
+                                
+                            &nbsp;&nbsp; Página
+                                <select class="find_controles" onChange="Accion_PAGCANT(2);" name="pag2">
+	<option selected value='1'>1</option>
+				</select>
+         </form>                
+&nbsp; 
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td colspan="5" align="center">
+
+                                
+                                <form action="../Orders/MultiAddCart.asp" method="POST">
+
+                                <div class="select">
+                                    <span class="arr"></span>
+    	                            <select name="BayAll">
+                                    		
+<option selected value='2/100.00/25.00'>Compra las 23 fotos en Calidad Media (1.5 Mpx) por $ 1,725.00 MXP (Descuento del 25%, $ 75.00 MXP c/u)</option><option selected value='3/175.00/61.25'>Compra las 23 fotos en Calidad Alta (6.0 Mpx) por $ 2,616.25 MXP (Descuento del 35%, $ 113.75 MXP c/u)</option><option selected value='4/270.00/108.00'>Compra las 23 fotos en Calidad Súper (12 Mpx) por $ 3,726.00 MXP (Descuento del 40%, $ 162.00 MXP c/u)</option>														
+									</select>
+								</div>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="buttonLog" type="submit" value="!Agregar al Carrito!" />
+	                            <input type="hidden" name="alb" value="1077">
+	                            <input type="hidden" name="key" value="235">
+   	                            <input type="hidden" name="iNB" value="47786">
+                                </form>
+                                <p class="dato_aviso">*** Podras eliminar del carrito la(s) foto(s) que no deseas adquirir antes de pagar ***</p>
+                                
+                                </td>
+                            </tr>
+                      </table>
+                      	</td>
+                        
+                                <td width="275px" valign="top" align="center" bgcolor="#06222E" ><br />
+						        <a target='_blank' href='http://www.photoplanet.com.mx/goout.asp?idbs=274&sLk=https://corremejia.com/trail-de-la-mixteca'><img src='../images/banners/BFP02/BFP02_274.jpg' width='230' height='420' style='border: 5px outset white;' /></a><br /><br /><a target='_blank' href='http://www.photoplanet.com.mx/goout.asp?idbs=268&sLk=http://www.photoplanet.com.mx/'><img src='../images/banners/BFP02/BFP02_268.jpg' width='230' height='420' style='border: 5px outset white;' /></a><br /><br />
+                                </td>
+                        
+                        </tr>
+                            </table>
+                            </td>
+
+                    </tr>                    
+                </table>
+           </td>
+        </tr>
+        <tr>
+            <td class="pie_pagina"><table width="100%">
+ <tr>
+            <td ><div style="border-radius: 20px;box-shadow: 0 0 15px 0 #214A06; text-align:center; font-size:35px; color:#214A06; border:30px; font-family: Arial;">
+            </br>
+            Conéctate Con Nosotros.
+            </br>
+           <a target="_blank" href="http://www.facebook.com/#!/pages/PHOTOPLANETcommx/185269701515466"> <img src="http://www.photoplanet.com.mx/images/aplicacion/logos/facebookv.png" width="50px" height="50px" style="margin:20px; margin-left:50px;"></a>
+            
+           <a target="_blank" href="https://www.instagram.com/photoplanet.com.mx/"> <img src="http://www.photoplanet.com.mx/images/aplicacion/logos/tv.png" width="50px" height="50px" style="margin:20px; margin-left:150px;"></a>
+            
+            <a target="_blank" href="http://twitter.com/photoplanetMX"> <img src="http://www.photoplanet.com.mx/images/aplicacion/logos/Twitterv.png" width="50px" height="50px" style="margin:20px; margin-left:150px;"></a>
+            
+            <a target="_blank" href="https://www.youtube.com/channel/UC5FhECWypnAHbEODNFGL-qw"><img src="http://www.photoplanet.com.mx/images/aplicacion/logos/youtubev.png" width="50px" height="50px" style="margin:20px; margin-left:150px;">
+            </br>
+            
+            </div></td>
+        </tr>
+        <tr>
+</table>
+
+</br></br>
+<p align="center" style="margin-top: 0; margin-bottom: 0">
+    <a target="_blank" href="http://www.sil.com.mx" class="pie_pagina">Copyright © 2022 Sistemas Integrales en Línea S.A. de C.V. Todos los derechos reservados.</a>
+</p>
+</td>
+        </tr>
+</table>
+<script type="text/javascript">
+    var alltables = document.getElementsByTagName("table")
+    for (var i = 0; i < alltables.length; i++)
+        disableSelection(alltables[i]) //disable text selection within all tables on the page
+</script>
+</body>
+</html>
