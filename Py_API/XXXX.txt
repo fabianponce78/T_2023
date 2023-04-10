@@ -1,0 +1,77 @@
+.___________. _______ .___  ___.      ___      .______       __    ______   
+|           ||   ____||   \/   |     /   \     |   _  \     |  |  /  __  \  
+`---|  |----`|  |__   |  \  /  |    /  ^  \    |  |_)  |    |  | |  |  |  | 
+    |  |     |   __|  |  |\/|  |   /  /_\  \   |      /     |  | |  |  |  | 
+    |  |     |  |____ |  |  |  |  /  _____  \  |  |\  \----.|  | |  `--'  | 
+    |__|     |_______||__|  |__| /__/     \__\ | _| `._____||__|  \______/  
+                                                                            
+																			
+
+
+- Que es una API?
+
+	https://platzi.com/clases/1638-api-rest/21611-que-significa-rest-y-que-es-una-api-restful/?gclid=Cj0KCQiA1sucBhDgARIsAFoytUtgedXhDfAveUVxsFlHg7XTW6ohJZM8MLibLVfvH3CdxyIFiwOTqycaAhXEEALw_wcB&gclsrc=aw.ds
+	
+	
+	
+Principios de una API REST (API RESTful)
+Una API RESTful es una interfaz que utiliza los principios de REST para comunicarse hacia y desde un servidor.
+
+El principio más importante en las APIs RESTful es el uso de los métodos HTTP:
+
+GET
+POST
+PUT
+DELETE
+Estos métodos son empleados por los clientes para crear, manipular y eliminar datos en los servidores, respectivamente.	
+	
+
+¿Cuál es la diferencia entre API y API REST (RESTful)
+Una API ( acrónimo que significa **Interfaz de Programación de Aplicaciones -Application Programming Interface) es una interfaz que permite que diferentes programas de ordenador se comuniquen entre sí, mientras que una API REST es un tipo de API que sigue un conjunto de reglas y estándares que la hacen más fácil de usar y más compatible con otras aplicaciones.
+
+De esta manera, una API REST puede ser una buena opción para permitir que diferentes aplicaciones se integren de manera más sencilla.
+
+	
+    _       _       _        ___   _       _       _    
+ /\| |/\ /\| |/\ /\| |/\    /  //\| |/\ /\| |/\ /\| |/\ 
+ \ ` ' / \ ` ' / \ ` ' /   /  / \ ` ' / \ ` ' / \ ` ' / 
+|_     _|_     _|_     _| /  / |_     _|_     _|_     _|
+ / , . \ / , . \ / , . \ /  /   / , . \ / , . \ / , . \ 
+ \/|_|\/ \/|_|\/ \/|_|\//__/    \/|_|\/ \/|_|\/ \/|_|\/ 
+                                                        
+	
+
+- Coneccion con rapidapi.
+	- URL
+	- Key
+
+- Power BI. --> API
+
+- Python. 
+	- API. Request
+	- JSON
+	
+	
+- Power BI. --> JSON
+
+
+
+https://rapidapi.com/hub
+
+Free Public APIs for Developers
+https://rapidapi.com/collection/list-of-free-apis
+
+
+    _       _       _        ___   _       _       _    
+ /\| |/\ /\| |/\ /\| |/\    /  //\| |/\ /\| |/\ /\| |/\ 
+ \ ` ' / \ ` ' / \ ` ' /   /  / \ ` ' / \ ` ' / \ ` ' / 
+|_     _|_     _|_     _| /  / |_     _|_     _|_     _|
+ / , . \ / , . \ / , . \ /  /   / , . \ / , . \ / , . \ 
+ \/|_|\/ \/|_|\/ \/|_|\//__/    \/|_|\/ \/|_|\/ \/|_|\/ 
+                                                        
+
+
+Weather
+https://rapidapi.com/weatherbit/api/weather/
+
+Subcribe to Test
